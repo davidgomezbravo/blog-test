@@ -47,7 +47,7 @@
                                     
                                 </div>
                             <div class="form-group bg-light">
-                                    <label for="tags">Tags</label>
+                                    <label for="tags">Tags (Please type the tags separated by comma eg: people, race,)</label>
                                     <input type="text" class="form-control" data-role="tagsinput" name="tags" id="tags">
                                    
                                 </div>
