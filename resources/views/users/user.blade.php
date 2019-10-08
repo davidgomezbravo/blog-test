@@ -8,7 +8,7 @@
                 <b>email:</b> {{ $user->email }}<br>
                 <b>Created on:</b> {{ $user->created_at }}
         </div>
-        <a href="admin/users/{{ $user->id }}">View Posts</a> <br></div>
+        <a href="{{ route('users.show', $user->id) }}">View Posts</a> <br></div>
     </div>
     <div class="row">
         <div class="col-md-12">

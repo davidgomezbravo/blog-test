@@ -2,10 +2,10 @@
 <p class="card-text">
     <div class="row">
         <div class="col-md-12 text-right"><b>Posted on:</b> {{ $post->created_at }}</div>
-        <div class="col-md-12"><div class="text-muted"><b>{{ $post->title }}</b> - Created by <a href="/user/{{ $post->user_id}}">{{ $post->user->name }}</a>
+        <div class="col-md-12"><div class="text-muted"><b>{{ $post->title }}</b> - Created by <a href="{{ route('users.show', $post->user_id) }}">{{ $post->user->name }}</a>
         </div>
         {{ $post->content }}<br>
-        <a href="admin/posts/{{ $post->id }}">Read More</a> <br></div>
+        <a href="{{ route('posts.show', $post->id) }}">Read More</a> <br></div>
     </div>
     <div class="row">
         <div class="col-md-12">

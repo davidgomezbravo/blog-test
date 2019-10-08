@@ -1,8 +1,44 @@
 @extends('layouts.app')
 
 @section('content')
-<h1 class="h3">Post id: {{ $post->id }}</h1>
-@include('posts.post')
-
-<responses :post="{{ $post->id }}"></responses>
+<div class="container">
+    <div class="jumbotron text-center">
+        <h1>Post Test</h1>
+        @guest
+            @else
+                <nav>
+                    <ul class="nav nav-pills">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home">Home</a>
+                        </li>
+                    </ul>
+                </nav>
+            @endguest
+    </div>
+    <div class="row">
+        
+            <p class="card-text">
+                
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-md-12"><h1><b>{{ $post->title }}</b></h1></div>
+                        <div class="col-md-12"><img class="img-thumbnail" src="http://lorempixel.com/600/320/technics"></div>
+                        <div class="col-md-12 text-right"><b>Posted on:</b> {{ $post->created_at }}</div>
+                        <div class="col-md-12">
+                            <div class="text-muted"> - Created by 
+                                <a href="{{ route('users.show', $post->user_id) }}">{{ $post->user->name }}</a>
+                            </div>
+                            {{ $post->content }}<br>
+                        </div>
+                        <div class="col-md-12">
+                                @foreach($post->tags as $tag)
+                                    <span class="badge badge-success">{{$tag->name}}</span>
+                                @endforeach
+                        </div>
+                    </div>
+                </div>
+            
+            </p>
+    </div>
+</div>
 @endsection

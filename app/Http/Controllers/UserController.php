@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 use App\User;
+use App\Post;
 use Illuminate\Http\Request;
 use Auth;
 
@@ -68,7 +69,14 @@ class UserController extends Controller
      */
     public function show($id)
     {
-        //
+        $name = User::select('name')->find($id);
+        $posts = Post::where('user_id',$id)->get();
+
+        return view('users.show', [
+            'posts' => $posts,
+            'name' => $name,
+            'my_id' => 0,
+        ]);
     }
 
     /**

@@ -4,9 +4,17 @@
     <div class="container">
 		<div class="jumbotron text-center">
             <h1>Post Test</h1>
-            <nav>
-                
-            </nav>
+            @guest
+            @else
+                <nav>
+                    <ul class="nav nav-pills">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/home">Home</a>
+                        </li>
+                    </ul>
+                </nav>
+            @endguest
+            
         </div>
         <div class="row">
             <div class="flex-center position-ref full-height">
