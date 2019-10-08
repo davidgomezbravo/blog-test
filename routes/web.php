@@ -26,7 +26,7 @@ Route::group(['middleware' => 'auth'], function () {
     Route::group(array('prefix' => 'admin'), function()
     {
         Route::resource('posts', 'PostController');
-    
+        Route::resource('users', 'UserController');
     });
     
 	/*Route::post('/post/create', 'MessagesController@create');

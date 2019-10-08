@@ -15,8 +15,9 @@
 			</div>
     <div class="row">
 		<div class="col-md-2"><a href="admin/posts" class="btn btn-primary">All Posts</a><br><br>
-			<a href="admin/posts/create" class="btn btn-success">New Posts</a></div>
-		<div class="col-md-2"></div>
+			<a href="admin/posts/create" class="btn btn-success">New Post</a></div>
+		<div class="col-md-2"><a href="admin/users" class="btn btn-primary">All Users</a><br><br>
+			<a href="admin/posts/create" class="btn btn-success">New User</a></div>
 		
     </div>
 </div>
