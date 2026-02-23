@@ -1,0 +1,110 @@
+baseURL: 'https://blog.itsdavidg.co'
+languageCode: 'en-us'
+title: 'David Gomez - Technology & Business Insights'
+theme: 'PaperMod'
+
+params:
+  author: 'David Gomez'
+  description: 'Expert insights on cybersecurity, cloud solutions, automation, and business growth strategies.'
+  keywords: ['Technology', 'Cybersecurity', 'Cloud', 'Automation', 'Business']
+  
+  # PaperMod settings
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+  
+  # Profile mode
+  profileMode:
+    enabled: true
+    title: 'David Gomez'
+    subtitle: 'Technology Consultant | Cybersecurity Expert | Cloud Solutions Architect'
+    imageUrl: '/images/profile.jpg'
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: 'David Gomez'
+    buttons:
+      - name: 'Latest Posts'
+        url: '/posts'
+      - name: 'About'
+        url: '/about'
+  
+  # Social icons
+  socialIcons:
+    - name: 'linkedin'
+      url: 'https://linkedin.com/in/davidgomez'
+    - name: 'twitter'
+      url: 'https://twitter.com/itsdavidg'
+    - name: 'github'
+      url: 'https://github.com/davidgomez'
+    - name: 'email'
+      url: 'mailto:david@itsdavidg.co'
+
+  # Search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Menu
+menu:
+  main:
+    - identifier: 'posts'
+      name: 'Posts'
+      url: '/posts/'
+      weight: 10
+    - identifier: 'categories'
+      name: 'Categories'
+      url: '/categories/'
+      weight: 20
+    - identifier: 'tags'
+      name: 'Tags'
+      url: '/tags/'
+      weight: 30
+    - identifier: 'about'
+      name: 'About'
+      url: '/about/'
+      weight: 40
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+
+# Output
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Markup
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      typographer: true
+  highlight:
+    style: github
+    lineNos: true
+    codeFences: true
+    guessSyntax: true
+    noClasses: false
