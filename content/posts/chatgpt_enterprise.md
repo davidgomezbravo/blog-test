@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Enterprise Implementation in 2026: Maximizing Business Value While Managing Risk"
-date: 2026-02-05T08:00:00-05:00
+date: 2026-03-02T08:00:00-05:00
 draft: false
 tags: ["ChatGPT", "AI implementation", "generative AI", "enterprise AI"]
 categories: ["AI Implementation"]

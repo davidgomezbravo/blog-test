@@ -1,0 +1,307 @@
+<!-- Monitoring Service Promo Banner - Add to Hugo theme -->
+<style>
+.monitoring-banner {
+    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #06b6d4 100%);
+    color: white;
+    padding: 20px 24px;
+    border-radius: 12px;
+    margin: 30px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    box-shadow: 0 10px 40px rgba(99, 102, 241, 0.3);
+    position: relative;
+    overflow: hidden;
+}
+
+.monitoring-banner::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
+    animation: pulse 4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 0.5; }
+    50% { transform: scale(1.1); opacity: 0.8; }
+}
+
+.monitoring-banner-content {
+    flex: 1;
+    min-width: 280px;
+    position: relative;
+    z-index: 1;
+}
+
+.monitoring-banner-badge {
+    display: inline-block;
+    background: rgba(255,255,255,0.2);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+.monitoring-banner h3 {
+    margin: 0 0 8px 0;
+    font-size: 1.4rem;
+    font-weight: 700;
+}
+
+.monitoring-banner p {
+    margin: 0;
+    opacity: 0.95;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.monitoring-banner-cta {
+    display: flex;
+    gap: 12px;
+    flex-shrink: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.monitoring-banner-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.monitoring-banner-btn-primary {
+    background: white;
+    color: #6366f1;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.monitoring-banner-btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.monitoring-banner-btn-secondary {
+    background: rgba(255,255,255,0.15);
+    color: white;
+    border: 1px solid rgba(255,255,255,0.3);
+}
+
+.monitoring-banner-btn-secondary:hover {
+    background: rgba(255,255,255,0.25);
+}
+
+.monitoring-banner-price {
+    font-size: 12px;
+    opacity: 0.9;
+    margin-top: 4px;
+}
+
+/* Floating Widget Style */
+.monitoring-widget {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+    color: white;
+    padding: 16px 20px;
+    border-radius: 16px;
+    box-shadow: 0 10px 40px rgba(99, 102, 241, 0.4);
+    max-width: 320px;
+    z-index: 1000;
+    animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(100px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.monitoring-widget-close {
+    position: absolute;
+    top: 8px;
+    right: 12px;
+    background: none;
+    border: none;
+    color: white;
+    opacity: 0.6;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+}
+
+.monitoring-widget-close:hover {
+    opacity: 1;
+}
+
+.monitoring-widget h4 {
+    margin: 0 0 8px 0;
+    font-size: 16px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+
+.monitoring-widget p {
+    margin: 0 0 12px 0;
+    font-size: 13px;
+    opacity: 0.95;
+    line-height: 1.5;
+}
+
+.monitoring-widget-btn {
+    display: inline-block;
+    background: white;
+    color: #6366f1;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 13px;
+    text-decoration: none;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.monitoring-widget-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+/* Inline CTA Box */
+.monitoring-inline {
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.1), rgba(139, 92, 246, 0.05));
+    border: 2px solid rgba(99, 102, 241, 0.3);
+    border-radius: 16px;
+    padding: 28px;
+    margin: 30px 0;
+    text-align: center;
+}
+
+.monitoring-inline h4 {
+    margin: 0 0 12px 0;
+    font-size: 1.3rem;
+    color: #333;
+}
+
+.monitoring-inline p {
+    margin: 0 0 20px 0;
+    color: #666;
+    font-size: 1rem;
+}
+
+.monitoring-inline-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: white;
+    padding: 14px 28px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.monitoring-inline-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(99, 102, 241, 0.4);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .monitoring-banner {
+        flex-direction: column;
+        text-align: center;
+        padding: 24px;
+    }
+    
+    .monitoring-banner-cta {
+        width: 100%;
+        flex-direction: column;
+    }
+    
+    .monitoring-banner-btn {
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .monitoring-widget {
+        left: 10px;
+        right: 10px;
+        bottom: 10px;
+        max-width: none;
+    }
+}
+</style>
+
+<!-- BANNER OPTION 1: Top of posts -->
+<div class="monitoring-banner">
+    <div class="monitoring-banner-content">
+        <span class="monitoring-banner-badge">🚀 Stop AWS Surprises</span>
+        <h3>Get AWS Monitoring That Actually Makes Sense</h3>
+        <p>Catch cost anomalies before they hit your bill. Alerts in plain English, delivered to Slack. Starting at $69/month.</p>
+        <span class="monitoring-banner-price">✓ No 24/7 support fees ✓ Cancel anytime</span>
+    </div>
+    <div class="monitoring-banner-cta">
+        <a href="https://monitoring.itsdavidg.co?utm_source=blog&utm_medium=banner&utm_campaign=blog_top" class="monitoring-banner-btn monitoring-banner-btn-primary" onclick="gtag('event', 'click', {'event_category': 'Blog CTA', 'event_label': 'Banner - View Plans'});">
+            View Plans →
+        </a>
+        <a href="https://calendly.com/contactme-itsdavidg/30min?utm_source=blog&utm_medium=banner&utm_campaign=blog_top" class="monitoring-banner-btn monitoring-banner-btn-secondary" onclick="gtag('event', 'click', {'event_category': 'Blog CTA', 'event_label': 'Banner - Book Call'});">
+            Free Consultation
+        </a>
+    </div>
+</div>
+
+<!-- BANNER OPTION 2: Inline CTA (middle of post) -->
+<div class="monitoring-inline">
+    <h4>🛡️ Tired of AWS Surprises?</h4>
+    <p>I built a monitoring service that catches issues before they become 2am emergencies. Automated alerts, cost optimization, and expert recommendations starting at $69/month.</p>
+    <a href="https://monitoring.itsdavidg.co?utm_source=blog&utm_medium=inline&utm_campaign=blog_inline" class="monitoring-inline-btn" onclick="gtag('event', 'click', {'event_category': 'Blog CTA', 'event_label': 'Inline - Learn More'});">
+        Learn More →
+    </a>
+</div>
+
+<!-- BANNER OPTION 3: Floating Widget (bottom right) -->
+<div class="monitoring-widget" id="monitoringWidget">
+    <button class="monitoring-widget-close" onclick="document.getElementById('monitoringWidget').style.display='none';">×</button>
+    <h4>⚡ Stop Overpaying for AWS</h4>
+    <p>Get monitoring that catches cost creep early. Starting at $69/month.</p>
+    <a href="https://monitoring.itsdavidg.co?utm_source=blog&utm_medium=widget&utm_campaign=blog_widget" class="monitoring-widget-btn" onclick="gtag('event', 'click', {'event_category': 'Blog CTA', 'event_label': 'Widget - View Plans'});">
+        View Plans
+    </a>
+</div>
+
+<script>
+// Show widget after 30 seconds
+setTimeout(function() {
+    var widget = document.getElementById('monitoringWidget');
+    if (widget && !localStorage.getItem('monitoringWidgetClosed')) {
+        widget.style.display = 'block';
+    }
+}, 30000);
+
+// Remember if user closed widget
+document.querySelector('.monitoring-widget-close').addEventListener('click', function() {
+    localStorage.setItem('monitoringWidgetClosed', 'true');
+});
+</script>

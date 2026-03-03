@@ -1,0 +1,42 @@
+<!-- Monitoring Service Promo Banner - Injected into every page -->
+<div class="monitoring-banner">
+    <div class="monitoring-banner-content">
+        <span class="monitoring-banner-badge">🚀 Stop AWS Surprises</span>
+        <h3>Get AWS Monitoring That Actually Makes Sense</h3>
+        <p>Catch cost anomalies before they hit your bill. Alerts in plain English, delivered to Slack.</p>
+        <span class="monitoring-banner-price">Starting at $69/month ✓ No 24/7 support fees ✓ Cancel anytime</span>
+    </div>
+    <div class="monitoring-banner-cta">
+        <a href="https://monitoring.itsdavidg.co?utm_source=blog&utm_medium=banner&utm_campaign=blog_top" class="monitoring-banner-btn monitoring-banner-btn-primary" target="_blank">
+            View Plans →
+        </a>
+        <a href="https://calendly.com/contactme-itsdavidg/30min?utm_source=blog&utm_medium=banner&utm_campaign=blog_top" class="monitoring-banner-btn monitoring-banner-btn-secondary" target="_blank">
+            Free Consultation
+        </a>
+    </div>
+</div>
+
+<!-- Floating Widget -->
+<div class="monitoring-floating" id="monitoringFloat" style="display: none;">
+    <button class="monitoring-floating-close" onclick="closeMonitoringFloat()">×</button>
+    <h4>⚡ Stop Overpaying for AWS</h4>
+    <p>Get monitoring that catches cost creep early. Starting at $69/month.</p>
+    <a href="https://monitoring.itsdavidg.co?utm_source=blog&utm_medium=widget&utm_campaign=blog_widget" class="monitoring-floating-btn" target="_blank">
+        View Plans
+    </a>
+</div>
+
+<script>
+// Show floating widget after 45 seconds
+setTimeout(function() {
+    var float = document.getElementById('monitoringFloat');
+    if (float && !sessionStorage.getItem('monitoringFloatClosed')) {
+        float.style.display = 'block';
+    }
+}, 45000);
+
+function closeMonitoringFloat() {
+    document.getElementById('monitoringFloat').style.display = 'none';
+    sessionStorage.setItem('monitoringFloatClosed', 'true');
+}
+</script>

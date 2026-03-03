@@ -1,0 +1,55 @@
+/* Techy background for homepage */
+.profile {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+    padding: 3rem 2rem;
+    border-radius: 12px;
+    margin: 2rem auto;
+    max-width: 800px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.profile_inner {
+    text-align: center;
+}
+
+.profile .profile_inner h1 {
+    color: #e94560;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.profile .profile_inner span {
+    color: #eaeaea;
+    font-size: 1.2rem;
+    display: block;
+    margin-bottom: 2rem;
+}
+
+/* Button styling */
+.profile .buttons .button {
+    background: linear-gradient(135deg, #e94560 0%, #533483 100%);
+    border: none;
+    padding: 12px 30px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.profile .buttons .button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 25px rgba(233, 69, 96, 0.4);
+}
+
+/* Social icons */
+.profile .social-icons a {
+    color: #eaeaea;
+    transition: color 0.3s ease;
+}
+
+.profile .social-icons a:hover {
+    color: #e94560;
+}

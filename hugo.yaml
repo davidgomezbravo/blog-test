@@ -27,12 +27,12 @@ params:
   showtoc: true
   tocopen: false
   
-  # Profile mode
+  # Profile mode with background image
   profileMode:
     enabled: true
     title: 'David Gomez'
     subtitle: 'Technology Consultant | Cybersecurity Expert | Cloud Solutions Architect'
-    imageUrl: '/images/profile.jpg'
+    imageUrl: ''
     imageWidth: 120
     imageHeight: 120
     imageTitle: 'David Gomez'
@@ -40,18 +40,18 @@ params:
       - name: 'Latest Posts'
         url: '/posts'
       - name: 'About'
-        url: '/about'
+        url: 'https://itsdavidg.co/about'
   
   # Social icons
   socialIcons:
     - name: 'linkedin'
-      url: 'https://linkedin.com/in/davidgomez'
+      url: 'https://www.linkedin.com/in/david-gomez-bravo/'
     - name: 'twitter'
-      url: 'https://twitter.com/itsdavidg'
-    - name: 'github'
-      url: 'https://github.com/davidgomez'
+      url: 'https://x.com/davidgomezbrav1?s=21&t=Cb3rTz9iFpsnkUZZ-7eK0g'
+    - name: 'instagram'
+      url: 'https://www.instagram.com/itsdavidgco?igsh=MWV5aGhnOHA3eWZiMw%3D%3D&utm_source=qr'
     - name: 'email'
-      url: 'mailto:david@itsdavidg.co'
+      url: 'https://calendly.com/contactme-itsdavidg/30min'
 
   # Search
   fuseOpts:
@@ -80,7 +80,7 @@ menu:
       weight: 30
     - identifier: 'about'
       name: 'About'
-      url: '/about/'
+      url: 'https://itsdavidg.co/about'
       weight: 40
 
 # Taxonomies
