@@ -1,27 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloud-security-alliance/</link><description>Recent content in Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2026 12:15:23 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloud-security-alliance/index.xml" rel="self" type="application/rss+xml"/><item><title>Core Collapse</title><link>https://blog.itsdavidg.co/posts/2026-03-03-core-collapse/</link><pubDate>Tue, 03 Mar 2026 12:15:23 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/2026-03-03-core-collapse/</guid><description>&lt;h2 id="core-collapse">Core Collapse&lt;/h2>
-&lt;p>&lt;em>Originally published by &lt;a href="https://cloudsecurityalliance.org/articles/core-collapse">Cloud Security Alliance&lt;/a>&lt;/em>&lt;/p>
-&lt;p>&lt;a href="https://cloudsecurityalliance.org/articles/core-collapse">📖 Read the full original article →&lt;/a>&lt;/p>
-&lt;h3 id="article-overview">Article Overview&lt;/h3>
-&lt;p>This recent announcement from Cloud Security Alliance highlights important developments in the technology industry that could impact businesses and professionals across various sectors.&lt;/p>
-&lt;h3 id="key-highlights">Key Highlights&lt;/h3>
-&lt;p>Based on the article title and source, this development likely includes:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Strategic Technology Updates&lt;/strong>: New capabilities or enhancements to existing solutions&lt;/li>
-&lt;li>&lt;strong>Industry Implications&lt;/strong>: Changes that could affect market dynamics and competitive landscape&lt;/li>
-&lt;li>&lt;strong>Business Impact&lt;/strong>: Practical considerations for organizations evaluating these developments&lt;/li>
-&lt;/ul>
-&lt;h3 id="technical-analysis">Technical Analysis&lt;/h3>
-&lt;p>The updates mentioned in this article represent continued evolution in technology solutions, with potential benefits including:&lt;/p></description></item><item><title>Zero Trust for Agentic Pipelines That Touch Cloud Production</title><link>https://blog.itsdavidg.co/posts/2026-03-03-zero-trust-for-agentic-pipelines-that-touch-cloud-production/</link><pubDate>Tue, 03 Mar 2026 12:15:23 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/2026-03-03-zero-trust-for-agentic-pipelines-that-touch-cloud-production/</guid><description>&lt;h2 id="zero-trust-for-agentic-pipelines-that-touch-cloud-production">Zero Trust for Agentic Pipelines That Touch Cloud Production&lt;/h2>
-&lt;p>&lt;em>Originally published by &lt;a href="https://cloudsecurityalliance.org/articles/zero-trust-for-agentic-pipelines-that-touch-cloud-production">Cloud Security Alliance&lt;/a>&lt;/em>&lt;/p>
-&lt;p>&lt;a href="https://cloudsecurityalliance.org/articles/zero-trust-for-agentic-pipelines-that-touch-cloud-production">📖 Read the full original article →&lt;/a>&lt;/p>
-&lt;h3 id="article-overview">Article Overview&lt;/h3>
-&lt;p>This recent announcement from Cloud Security Alliance highlights important developments in the technology industry that could impact businesses and professionals across various sectors.&lt;/p>
-&lt;h3 id="key-highlights">Key Highlights&lt;/h3>
-&lt;p>Based on the article title and source, this development likely includes:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Strategic Technology Updates&lt;/strong>: New capabilities or enhancements to existing solutions&lt;/li>
-&lt;li>&lt;strong>Industry Implications&lt;/strong>: Changes that could affect market dynamics and competitive landscape&lt;/li>
-&lt;li>&lt;strong>Business Impact&lt;/strong>: Practical considerations for organizations evaluating these developments&lt;/li>
-&lt;/ul>
-&lt;h3 id="technical-analysis">Technical Analysis&lt;/h3>
-&lt;p>The updates mentioned in this article represent continued evolution in technology solutions, with potential benefits including:&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/cloud-security-alliance/</link>
+    <description>Recent content in Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Mar 2026 12:15:23 +0000</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/cloud-security-alliance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core Collapse</title>
+      <link>https://blog.itsdavidg.co/posts/2026-03-03-core-collapse/</link>
+      <pubDate>Tue, 03 Mar 2026 12:15:23 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/2026-03-03-core-collapse/</guid>
+      <description>&lt;h2 id=&#34;core-collapse&#34;&gt;Core Collapse&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&#34;https://cloudsecurityalliance.org/articles/core-collapse&#34;&gt;Cloud Security Alliance&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloudsecurityalliance.org/articles/core-collapse&#34;&gt;📖 Read the full original article →&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;article-overview&#34;&gt;Article Overview&lt;/h3&gt;
+&lt;p&gt;This recent announcement from Cloud Security Alliance highlights important developments in the technology industry that could impact businesses and professionals across various sectors.&lt;/p&gt;
+&lt;h3 id=&#34;key-highlights&#34;&gt;Key Highlights&lt;/h3&gt;
+&lt;p&gt;Based on the article title and source, this development likely includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Technology Updates&lt;/strong&gt;: New capabilities or enhancements to existing solutions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Implications&lt;/strong&gt;: Changes that could affect market dynamics and competitive landscape&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Impact&lt;/strong&gt;: Practical considerations for organizations evaluating these developments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-analysis&#34;&gt;Technical Analysis&lt;/h3&gt;
+&lt;p&gt;The updates mentioned in this article represent continued evolution in technology solutions, with potential benefits including:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zero Trust for Agentic Pipelines That Touch Cloud Production</title>
+      <link>https://blog.itsdavidg.co/posts/2026-03-03-zero-trust-for-agentic-pipelines-that-touch-cloud-production/</link>
+      <pubDate>Tue, 03 Mar 2026 12:15:23 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/2026-03-03-zero-trust-for-agentic-pipelines-that-touch-cloud-production/</guid>
+      <description>&lt;h2 id=&#34;zero-trust-for-agentic-pipelines-that-touch-cloud-production&#34;&gt;Zero Trust for Agentic Pipelines That Touch Cloud Production&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&#34;https://cloudsecurityalliance.org/articles/zero-trust-for-agentic-pipelines-that-touch-cloud-production&#34;&gt;Cloud Security Alliance&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://cloudsecurityalliance.org/articles/zero-trust-for-agentic-pipelines-that-touch-cloud-production&#34;&gt;📖 Read the full original article →&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;article-overview&#34;&gt;Article Overview&lt;/h3&gt;
+&lt;p&gt;This recent announcement from Cloud Security Alliance highlights important developments in the technology industry that could impact businesses and professionals across various sectors.&lt;/p&gt;
+&lt;h3 id=&#34;key-highlights&#34;&gt;Key Highlights&lt;/h3&gt;
+&lt;p&gt;Based on the article title and source, this development likely includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Technology Updates&lt;/strong&gt;: New capabilities or enhancements to existing solutions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Implications&lt;/strong&gt;: Changes that could affect market dynamics and competitive landscape&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Business Impact&lt;/strong&gt;: Practical considerations for organizations evaluating these developments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-analysis&#34;&gt;Technical Analysis&lt;/h3&gt;
+&lt;p&gt;The updates mentioned in this article represent continued evolution in technology solutions, with potential benefits including:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

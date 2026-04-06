@@ -2,7 +2,7 @@
 title: "Most Parked Domains Now Serving Malicious Content"
 date: 2026-03-25T20:00:22
 draft: false
-tags: ["news", "krebs-on-security]
+tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
 original_url: "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/"

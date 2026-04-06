@@ -2,7 +2,7 @@
 title: "Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management"
 date: 2026-03-25T20:00:12
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/"

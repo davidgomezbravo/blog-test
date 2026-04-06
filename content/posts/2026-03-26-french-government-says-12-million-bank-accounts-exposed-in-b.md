@@ -2,7 +2,7 @@
 title: "French Government Says 1.2 Million Bank Accounts Exposed in Breach"
 date: 2026-03-26T12:00:09
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/french-government-says-1-2-million-bank-accounts-exposed-in-breach/"

@@ -2,7 +2,7 @@
 title: "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’"
 date: 2026-03-25T20:00:14
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/"

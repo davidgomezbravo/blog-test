@@ -2,7 +2,7 @@
 title: "The OpenAI mafia: 18 startups founded by alumni"
 date: 2026-03-26T12:00:15
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/the-openai-mafia-15-of-the-most-notable-startups-founded-by-alumni/"

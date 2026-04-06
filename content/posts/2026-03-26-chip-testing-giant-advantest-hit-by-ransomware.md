@@ -2,7 +2,7 @@
 title: "Chip Testing Giant Advantest Hit by Ransomware"
 date: 2026-03-26T12:00:08
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/chip-testing-giant-advantest-hit-by-ransomware/"

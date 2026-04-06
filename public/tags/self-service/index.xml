@@ -1,9 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Self-Service on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/self-service/</link><description>Recent content in Self-Service on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/self-service/index.xml" rel="self" type="application/rss+xml"/><item><title>Stop Asking 'Are We Overpaying?' - Get the Answer Instantly</title><link>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</link><pubDate>Mon, 09 Mar 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</guid><description>&lt;p>Stop waiting hours for a busy engineer to answer a simple AWS question. With the right tool, you can audit your own infrastructure and get accurate, documentation-backed answers instantly.&lt;/p>
-&lt;h2 id="stop-guessing-about-your-aws-bill">Stop Guessing About Your AWS Bill&lt;/h2>
-&lt;p>How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Self-Service on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/self-service/</link>
+    <description>Recent content in Self-Service on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2026 09:00:00 -0500</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/self-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Asking &#39;Are We Overpaying?&#39; - Get the Answer Instantly</title>
+      <link>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</link>
+      <pubDate>Mon, 09 Mar 2026 09:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</guid>
+      <description>&lt;p&gt;Stop waiting hours for a busy engineer to answer a simple AWS question. With the right tool, you can audit your own infrastructure and get accurate, documentation-backed answers instantly.&lt;/p&gt;
+&lt;h2 id=&#34;stop-guessing-about-your-aws-bill&#34;&gt;Stop Guessing About Your AWS Bill&lt;/h2&gt;
+&lt;p&gt;How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

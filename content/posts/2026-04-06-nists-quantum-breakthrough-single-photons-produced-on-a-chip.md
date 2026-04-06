@@ -2,7 +2,7 @@
 title: "NIST’s Quantum Breakthrough: Single Photons Produced on a Chip"
 date: 2026-04-06T12:00:06
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/"

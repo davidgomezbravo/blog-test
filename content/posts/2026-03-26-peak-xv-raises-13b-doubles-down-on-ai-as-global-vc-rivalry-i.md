@@ -2,7 +2,7 @@
 title: "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up"
 date: 2026-03-26T12:00:14
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/"

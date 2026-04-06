@@ -2,7 +2,7 @@
 title: "Nearly 1 Million User Records Compromised in Figure Data Breach"
 date: 2026-03-25T20:00:11
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/nearly-1-million-user-records-compromised-in-figure-data-breach/"

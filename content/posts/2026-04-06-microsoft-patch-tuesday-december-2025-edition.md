@@ -2,7 +2,7 @@
 title: "Microsoft Patch Tuesday, December 2025 Edition"
 date: 2026-04-06T12:00:40
 draft: false
-tags: ["news", "krebs-on-security]
+tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
 original_url: "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/"

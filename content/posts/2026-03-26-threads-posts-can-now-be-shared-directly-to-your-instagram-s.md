@@ -2,7 +2,7 @@
 title: "Threads posts can now be shared directly to your Instagram Story without leaving the app"
 date: 2026-03-26T12:00:12
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/threads-posts-can-now-be-shared-directly-to-your-instagram-story-without-leaving-the-app/"

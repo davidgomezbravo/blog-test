@@ -2,7 +2,7 @@
 title: "AWS Batch now supports unmanaged compute environments for Amazon EKS"
 date: 2026-03-25T20:00:03
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments"

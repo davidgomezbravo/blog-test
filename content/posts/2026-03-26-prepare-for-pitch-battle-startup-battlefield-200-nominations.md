@@ -2,7 +2,7 @@
 title: "Prepare for pitch battle: Startup Battlefield 200 nominations are open"
 date: 2026-03-26T12:00:13
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/prepare-for-pitch-battle-startup-battlefield-200-nominations-are-open/"

@@ -2,7 +2,7 @@
 title: "Dismantling Defenses: Trump 2.0 Cyber Year in Review"
 date: 2026-03-25T20:00:22
 draft: false
-tags: ["news", "krebs-on-security]
+tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
 original_url: "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/"

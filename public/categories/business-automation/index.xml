@@ -1,6 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Business Automation on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/business-automation/</link><description>Recent content in Business Automation on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Thu, 12 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/business-automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Workflow Automation Mastery: Transforming Business Operations with Zapier, Make, and n8n</title><link>https://blog.itsdavidg.co/posts/workflow_automation/</link><pubDate>Thu, 12 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/workflow_automation/</guid><description>&lt;h2 id="introduction-the-democratization-of-automation">Introduction: The Democratization of Automation&lt;/h2>
-&lt;p>Workflow automation has undergone a revolutionary democratization. What once required expensive consultants and complex coding can now be accomplished by business users through intuitive visual interfaces. According to Gartner&amp;rsquo;s 2025 Forecast Analysis, the low-code/no-code automation market reached $18.5 billion in 2025, growing 28% year-over-year as organizations rush to automate routine tasks without heavy IT involvement.&lt;/p>
-&lt;p>The impact on productivity is substantial. McKinsey&amp;rsquo;s Workplace Automation Study 2025 found that knowledge workers using workflow automation tools save an average of 8.5 hours per week—equivalent to adding one full workday. More significantly, automation reduces errors by 75% and improves process consistency by 90%.&lt;/p></description></item><item><title>Email Automation Mastery in 2026: Advanced Strategies for Engagement and Conversion</title><link>https://blog.itsdavidg.co/posts/email_automation/</link><pubDate>Sun, 08 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/email_automation/</guid><description>&lt;h2 id="introduction-the-evolution-of-email-automation">Introduction: The Evolution of Email Automation&lt;/h2>
-&lt;p>Email remains the most profitable digital marketing channel, generating an average ROI of $42 for every $1 spent according to Litmus&amp;rsquo;s 2025 State of Email Report. However, the email landscape has transformed dramatically. Inbox competition has intensified—the average professional receives 147 emails daily, up from 121 in 2020. Simultaneously, privacy changes, AI-driven filtering, and evolving consumer expectations have raised the bar for email effectiveness.&lt;/p></description></item><item><title>Enterprise CRM Automation in 2026: Maximizing Salesforce, HubSpot, and Microsoft Dynamics ROI</title><link>https://blog.itsdavidg.co/posts/crm_automation/</link><pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/crm_automation/</guid><description>&lt;h2 id="introduction-the-crm-automation-imperative">Introduction: The CRM Automation Imperative&lt;/h2>
-&lt;p>Customer Relationship Management (CRM) systems have evolved from simple contact databases into sophisticated platforms that can orchestrate entire customer journeys. According to Gartner&amp;rsquo;s 2025 CRM Market Analysis, organizations using advanced CRM automation achieve 47% higher customer retention rates, 35% shorter sales cycles, and 28% higher revenue per salesperson compared to those using basic CRM functionality.&lt;/p>
-&lt;p>Yet despite significant investment—global CRM spending reached $82 billion in 2025 according to Statista—many organizations fail to realize full platform value. Salesforce research indicates that 68% of CRM features go unused in the average implementation, representing massive wasted potential.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Business Automation on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/categories/business-automation/</link>
+    <description>Recent content in Business Automation on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 08:00:00 -0500</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/categories/business-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Automation Mastery: Transforming Business Operations with Zapier, Make, and n8n</title>
+      <link>https://blog.itsdavidg.co/posts/workflow_automation/</link>
+      <pubDate>Thu, 12 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/workflow_automation/</guid>
+      <description>&lt;h2 id=&#34;introduction-the-democratization-of-automation&#34;&gt;Introduction: The Democratization of Automation&lt;/h2&gt;
+&lt;p&gt;Workflow automation has undergone a revolutionary democratization. What once required expensive consultants and complex coding can now be accomplished by business users through intuitive visual interfaces. According to Gartner&amp;rsquo;s 2025 Forecast Analysis, the low-code/no-code automation market reached $18.5 billion in 2025, growing 28% year-over-year as organizations rush to automate routine tasks without heavy IT involvement.&lt;/p&gt;
+&lt;p&gt;The impact on productivity is substantial. McKinsey&amp;rsquo;s Workplace Automation Study 2025 found that knowledge workers using workflow automation tools save an average of 8.5 hours per week—equivalent to adding one full workday. More significantly, automation reduces errors by 75% and improves process consistency by 90%.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Email Automation Mastery in 2026: Advanced Strategies for Engagement and Conversion</title>
+      <link>https://blog.itsdavidg.co/posts/email_automation/</link>
+      <pubDate>Sun, 08 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/email_automation/</guid>
+      <description>&lt;h2 id=&#34;introduction-the-evolution-of-email-automation&#34;&gt;Introduction: The Evolution of Email Automation&lt;/h2&gt;
+&lt;p&gt;Email remains the most profitable digital marketing channel, generating an average ROI of $42 for every $1 spent according to Litmus&amp;rsquo;s 2025 State of Email Report. However, the email landscape has transformed dramatically. Inbox competition has intensified—the average professional receives 147 emails daily, up from 121 in 2020. Simultaneously, privacy changes, AI-driven filtering, and evolving consumer expectations have raised the bar for email effectiveness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enterprise CRM Automation in 2026: Maximizing Salesforce, HubSpot, and Microsoft Dynamics ROI</title>
+      <link>https://blog.itsdavidg.co/posts/crm_automation/</link>
+      <pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/crm_automation/</guid>
+      <description>&lt;h2 id=&#34;introduction-the-crm-automation-imperative&#34;&gt;Introduction: The CRM Automation Imperative&lt;/h2&gt;
+&lt;p&gt;Customer Relationship Management (CRM) systems have evolved from simple contact databases into sophisticated platforms that can orchestrate entire customer journeys. According to Gartner&amp;rsquo;s 2025 CRM Market Analysis, organizations using advanced CRM automation achieve 47% higher customer retention rates, 35% shorter sales cycles, and 28% higher revenue per salesperson compared to those using basic CRM functionality.&lt;/p&gt;
+&lt;p&gt;Yet despite significant investment—global CRM spending reached $82 billion in 2025 according to Statista—many organizations fail to realize full platform value. Salesforce research indicates that 68% of CRM features go unused in the average implementation, representing massive wasted potential.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

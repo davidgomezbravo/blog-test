@@ -2,7 +2,7 @@
 title: "Amazon ECS adds Network Load Balancer support for Linear and Canary deployments"
 date: 2026-03-25T20:00:04
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments"

@@ -2,7 +2,7 @@
 title: "FBI: $20 Million Losses Caused by 700 ATM Jackpotting Attacks in 2025"
 date: 2026-03-25T20:00:08
 draft: false
-tags: ["news", "security-week]
+tags: ["news", "security-week"]
 categories: ["industry-news"]
 source: "Security Week"
 original_url: "https://www.securityweek.com/fbi-20-million-losses-caused-by-700-atm-jackpotting-attacks-in-2025/"

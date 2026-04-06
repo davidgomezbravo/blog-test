@@ -2,7 +2,7 @@
 title: "Structured outputs now available in Amazon Bedrock"
 date: 2026-04-06T12:00:03
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/"

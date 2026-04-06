@@ -2,7 +2,7 @@
 title: "Second and last chance for innovators to win scaling perks: Belden extends nomination window"
 date: 2026-04-06T12:00:33
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/"

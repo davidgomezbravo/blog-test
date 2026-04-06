@@ -2,7 +2,7 @@
 title: "Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart"
 date: 2026-03-25T20:00:04
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart"

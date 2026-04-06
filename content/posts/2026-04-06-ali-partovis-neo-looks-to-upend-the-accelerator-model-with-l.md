@@ -2,7 +2,7 @@
 title: "Ali Partovi’s Neo looks to upend the accelerator model with low-dilution terms"
 date: 2026-04-06T12:00:28
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/19/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-low-dilution-terms/"

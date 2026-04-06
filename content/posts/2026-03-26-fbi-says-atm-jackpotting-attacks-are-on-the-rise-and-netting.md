@@ -2,7 +2,7 @@
 title: "FBI says ATM ‘jackpotting’ attacks are on the rise, and netting hackers millions in stolen cash"
 date: 2026-03-26T12:00:17
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/"

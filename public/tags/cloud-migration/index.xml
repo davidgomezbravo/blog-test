@@ -1,3 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloud Migration on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloud-migration/</link><description>Recent content in Cloud Migration on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloud-migration/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Cloud Migration in 2026: Strategies for Enterprise Transformation</title><link>https://blog.itsdavidg.co/posts/aws_migration/</link><pubDate>Tue, 10 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/aws_migration/</guid><description>&lt;h2 id="introduction-the-cloud-imperative">Introduction: The Cloud Imperative&lt;/h2>
-&lt;p>Cloud migration has transitioned from innovative strategy to business necessity. According to Gartner&amp;rsquo;s 2025 Cloud Adoption Report, 94% of enterprises now use cloud services, with 78% running mission-critical workloads in the cloud. AWS maintains its market leadership with 32% of the cloud infrastructure market, serving millions of active customers worldwide.&lt;/p>
-&lt;p>The business case for cloud migration has never been stronger. McKinsey&amp;rsquo;s 2025 Cloud Value Research found that organizations completing cloud transformations achieve 20-30% reduction in IT costs, 50% faster time-to-market for new capabilities, and 3x higher operational efficiency. More significantly, cloud-mature organizations report 4x higher revenue growth than cloud laggards.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud Migration on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/cloud-migration/</link>
+    <description>Recent content in Cloud Migration on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Mar 2026 08:00:00 -0500</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/cloud-migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Cloud Migration in 2026: Strategies for Enterprise Transformation</title>
+      <link>https://blog.itsdavidg.co/posts/aws_migration/</link>
+      <pubDate>Tue, 10 Mar 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws_migration/</guid>
+      <description>&lt;h2 id=&#34;introduction-the-cloud-imperative&#34;&gt;Introduction: The Cloud Imperative&lt;/h2&gt;
+&lt;p&gt;Cloud migration has transitioned from innovative strategy to business necessity. According to Gartner&amp;rsquo;s 2025 Cloud Adoption Report, 94% of enterprises now use cloud services, with 78% running mission-critical workloads in the cloud. AWS maintains its market leadership with 32% of the cloud infrastructure market, serving millions of active customers worldwide.&lt;/p&gt;
+&lt;p&gt;The business case for cloud migration has never been stronger. McKinsey&amp;rsquo;s 2025 Cloud Value Research found that organizations completing cloud transformations achieve 20-30% reduction in IT costs, 50% faster time-to-market for new capabilities, and 3x higher operational efficiency. More significantly, cloud-mature organizations report 4x higher revenue growth than cloud laggards.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

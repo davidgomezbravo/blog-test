@@ -2,7 +2,7 @@
 title: "SMS Phishers Pivot to Points, Taxes, Fake Retailers"
 date: 2026-03-26T12:00:19
 draft: false
-tags: ["news", "krebs-on-security]
+tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
 original_url: "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/"

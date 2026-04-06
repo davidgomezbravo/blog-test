@@ -2,7 +2,7 @@
 title: "TechCrunch Disrupt 2026 Super Early Bird rates end in 1 week"
 date: 2026-03-26T12:00:14
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/"

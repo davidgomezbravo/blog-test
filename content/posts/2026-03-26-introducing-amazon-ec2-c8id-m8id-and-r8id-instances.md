@@ -2,7 +2,7 @@
 title: "Introducing Amazon EC2 C8id, M8id, and R8id instances"
 date: 2026-03-26T12:00:06
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/"

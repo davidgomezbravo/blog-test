@@ -2,7 +2,7 @@
 title: "Amazon EC2 capacity blocks for ML can be shared across multiple accounts"
 date: 2026-03-25T20:00:02
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-capacity-blocks-multiple-accounts"

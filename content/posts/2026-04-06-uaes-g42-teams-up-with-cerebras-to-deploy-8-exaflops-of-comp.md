@@ -2,7 +2,7 @@
 title: "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India"
 date: 2026-04-06T12:00:26
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/"

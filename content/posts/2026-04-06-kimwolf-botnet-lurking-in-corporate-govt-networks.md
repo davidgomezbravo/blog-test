@@ -2,7 +2,7 @@
 title: "Kimwolf Botnet Lurking in Corporate, Govt. Networks"
 date: 2026-04-06T12:00:34
 draft: false
-tags: ["news", "krebs-on-security]
+tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
 original_url: "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/"

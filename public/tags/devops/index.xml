@@ -1,7 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>DevOps on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/devops/</link><description>Recent content in DevOps on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Tue, 17 Mar 2026 12:00:02 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Google VP warns that two types of AI startups may not survive</title><link>https://blog.itsdavidg.co/posts/google-vp-warns-that-two-types-of-ai-startups-may-not-surviv/</link><pubDate>Tue, 17 Mar 2026 12:00:02 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/google-vp-warns-that-two-types-of-ai-startups-may-not-surviv/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Google VP warns that two types of AI startups may not survive. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer</title><link>https://blog.itsdavidg.co/posts/aws-trusted-advisor-now-delivers-more-accurate-unused-nat-ga/</link><pubDate>Sun, 15 Mar 2026 16:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-trusted-advisor-now-delivers-more-accurate-unused-nat-ga/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>How to Connect an AI Bot to Your AWS Account and Eliminate DevOps Complexity Forever</title><link>https://blog.itsdavidg.co/posts/aws-chatbot-integration-eliminate-devops-complexity/</link><pubDate>Wed, 04 Mar 2026 12:45:00 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-chatbot-integration-eliminate-devops-complexity/</guid><description>Learn how to connect an AI-powered bot directly to your AWS account for instant insights, automated fixes, and complete infrastructure management through platforms like Slack.</description></item><item><title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title><link>https://blog.itsdavidg.co/posts/mlops/</link><pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/mlops/</guid><description>&lt;h2 id="introduction-bridging-the-gap-between-ml-research-and-production">Introduction: Bridging the Gap Between ML Research and Production&lt;/h2>
-&lt;p>The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p>
-&lt;p>Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DevOps on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/devops/</link>
+    <description>Recent content in DevOps on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Mar 2026 12:00:02 +0000</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google VP warns that two types of AI startups may not survive</title>
+      <link>https://blog.itsdavidg.co/posts/google-vp-warns-that-two-types-of-ai-startups-may-not-surviv/</link>
+      <pubDate>Tue, 17 Mar 2026 12:00:02 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/google-vp-warns-that-two-types-of-ai-startups-may-not-surviv/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Google VP warns that two types of AI startups may not survive. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer</title>
+      <link>https://blog.itsdavidg.co/posts/aws-trusted-advisor-now-delivers-more-accurate-unused-nat-ga/</link>
+      <pubDate>Sun, 15 Mar 2026 16:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws-trusted-advisor-now-delivers-more-accurate-unused-nat-ga/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to Connect an AI Bot to Your AWS Account and Eliminate DevOps Complexity Forever</title>
+      <link>https://blog.itsdavidg.co/posts/aws-chatbot-integration-eliminate-devops-complexity/</link>
+      <pubDate>Wed, 04 Mar 2026 12:45:00 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws-chatbot-integration-eliminate-devops-complexity/</guid>
+      <description>Learn how to connect an AI-powered bot directly to your AWS account for instant insights, automated fixes, and complete infrastructure management through platforms like Slack.</description>
+    </item>
+    <item>
+      <title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title>
+      <link>https://blog.itsdavidg.co/posts/mlops/</link>
+      <pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/mlops/</guid>
+      <description>&lt;h2 id=&#34;introduction-bridging-the-gap-between-ml-research-and-production&#34;&gt;Introduction: Bridging the Gap Between ML Research and Production&lt;/h2&gt;
+&lt;p&gt;The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p&gt;
+&lt;p&gt;Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 title: "Apache Spark lineage now available in Amazon SageMaker Unified Studio for IDC based domains"
 date: 2026-03-26T12:00:05
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/apache-spark-lineage-amazon-sageMaker-unified-studio"

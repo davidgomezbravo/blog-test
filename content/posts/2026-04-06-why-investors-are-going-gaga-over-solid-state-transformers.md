@@ -2,7 +2,7 @@
 title: "Why investors are going gaga over solid-state transformers"
 date: 2026-04-06T12:00:22
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/"

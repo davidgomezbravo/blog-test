@@ -2,7 +2,7 @@
 title: "AI’s promise to indie filmmakers: Faster, cheaper, lonelier"
 date: 2026-03-25T20:00:15
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/"

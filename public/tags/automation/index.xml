@@ -1,53 +1,246 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Automation on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/automation/</link><description>Recent content in Automation on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Fri, 20 Mar 2026 12:00:02 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Elastic Beanstalk now supports GitHub Actions for automated application deployment</title><link>https://blog.itsdavidg.co/posts/aws-elastic-beanstalk-now-supports-github-actions-for-automa/</link><pubDate>Fri, 20 Mar 2026 12:00:02 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-elastic-beanstalk-now-supports-github-actions-for-automa/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Elastic Beanstalk now supports GitHub Actions for automated application deployment. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Amazon EC2 X8i instances are now available in Europe (Stockholm)</title><link>https://blog.itsdavidg.co/posts/amazon-ec2-x8i-instances-are-now-available-in-europe-stockho/</link><pubDate>Fri, 20 Mar 2026 00:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/amazon-ec2-x8i-instances-are-now-available-in-europe-stockho/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EC2 X8i instances are now available in Europe (Stockholm). This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Claude Sonnet 4.6 now available in Amazon Bedrock</title><link>https://blog.itsdavidg.co/posts/claude-sonnet-46-now-available-in-amazon-bedrock/</link><pubDate>Thu, 19 Mar 2026 04:00:06 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/claude-sonnet-46-now-available-in-amazon-bedrock/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Claude Sonnet 4.6 now available in Amazon Bedrock. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Zero Trust in the Cloud: Designing Security Assurance at the Control Plane</title><link>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</link><pubDate>Wed, 18 Mar 2026 12:00:12 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust in the Cloud: Designing Security Assurance at the Control Plane. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design</title><link>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</link><pubDate>Wed, 18 Mar 2026 12:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds</title><link>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</link><pubDate>Wed, 18 Mar 2026 08:00:20 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled 79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Leveling Up Autonomy in Agentic AI</title><link>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</link><pubDate>Wed, 18 Mar 2026 08:00:18 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Leveling Up Autonomy in Agentic AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Non-Human Identity Governance: Why IGA Falls Short</title><link>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</link><pubDate>Wed, 18 Mar 2026 08:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Non-Human Identity Governance: Why IGA Falls Short. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>The Great Divide: How AI Is Splitting the Cybersecurity Landscape</title><link>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</link><pubDate>Wed, 18 Mar 2026 08:00:06 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Great Divide: How AI Is Splitting the Cybersecurity Landscape. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Token Sprawl in the Age of AI</title><link>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</link><pubDate>Wed, 18 Mar 2026 00:00:19 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Token Sprawl in the Age of AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Patch Tuesday, February 2026 Edition</title><link>https://blog.itsdavidg.co/posts/patch-tuesday-february-2026-edition/</link><pubDate>Tue, 17 Mar 2026 04:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/patch-tuesday-february-2026-edition/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Krebs on Security has unveiled Patch Tuesday, February 2026 Edition. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Krebs on Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly</title><link>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</link><pubDate>Mon, 16 Mar 2026 12:00:07 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Mogul says it has tracked $1.5B in music royalties, raised $5M in funding</title><link>https://blog.itsdavidg.co/posts/mogul-says-it-has-tracked-15b-in-music-royalties-raised-5m-i/</link><pubDate>Sun, 15 Mar 2026 04:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/mogul-says-it-has-tracked-15b-in-music-royalties-raised-5m-i/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Mogul says it has tracked $1.5B in music royalties, raised $5M in funding. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AWS AppConfig integrates with New Relic for automated rollbacks</title><link>https://blog.itsdavidg.co/posts/aws-appconfig-integrates-with-new-relic-for-automated-rollba/</link><pubDate>Sat, 14 Mar 2026 20:00:02 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-appconfig-integrates-with-new-relic-for-automated-rollba/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS AppConfig integrates with New Relic for automated rollbacks. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Uber engineers built an AI version of their boss</title><link>https://blog.itsdavidg.co/posts/uber-engineers-built-an-ai-version-of-their-boss/</link><pubDate>Sat, 14 Mar 2026 00:00:03 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/uber-engineers-built-an-ai-version-of-their-boss/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Uber engineers built an AI version of their boss. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Nvidia challenger AI chip startup MatX raised $500M</title><link>https://blog.itsdavidg.co/posts/nvidia-challenger-ai-chip-startup-matx-raised-500m/</link><pubDate>Fri, 13 Mar 2026 20:00:04 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/nvidia-challenger-ai-chip-startup-matx-raised-500m/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Nvidia challenger AI chip startup MatX raised $500M. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation</title><link>https://blog.itsdavidg.co/posts/aws-compute-optimizer-now-applies-aws-generated-tags-to-ebs-/</link><pubDate>Fri, 13 Mar 2026 16:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-compute-optimizer-now-applies-aws-generated-tags-to-ebs-/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AI Security: When Authorization Outlives Intent</title><link>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</link><pubDate>Thu, 12 Mar 2026 16:00:14 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: When Authorization Outlives Intent. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Gemini can now automate some multi-step tasks on Android</title><link>https://blog.itsdavidg.co/posts/gemini-can-now-automate-some-multi-step-tasks-on-android/</link><pubDate>Thu, 12 Mar 2026 04:00:07 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/gemini-can-now-automate-some-multi-step-tasks-on-android/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Gemini can now automate some multi-step tasks on Android. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Alphabet-owned robotics software company Intrinsic joins Google</title><link>https://blog.itsdavidg.co/posts/alphabet-owned-robotics-software-company-intrinsic-joins-goo/</link><pubDate>Wed, 11 Mar 2026 20:00:07 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/alphabet-owned-robotics-software-company-intrinsic-joins-goo/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Alphabet-owned robotics software company Intrinsic joins Google. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Amazon EC2 R8a instances now available in the Europe (Ireland) region</title><link>https://blog.itsdavidg.co/posts/amazon-ec2-r8a-instances-now-available-in-the-europe-ireland/</link><pubDate>Wed, 11 Mar 2026 08:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/amazon-ec2-r8a-instances-now-available-in-the-europe-ireland/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EC2 R8a instances now available in the Europe (Ireland) region. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Agentic AI and the New Reality of Financial Security</title><link>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</link><pubDate>Tue, 10 Mar 2026 20:00:13 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Agentic AI and the New Reality of Financial Security. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Trace raises $3M to solve the AI agent adoption problem in enterprise</title><link>https://blog.itsdavidg.co/posts/trace-raises-3m-to-solve-the-ai-agent-adoption-problem-in-en/</link><pubDate>Tue, 10 Mar 2026 20:00:10 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/trace-raises-3m-to-solve-the-ai-agent-adoption-problem-in-en/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Trace raises $3M to solve the AI agent adoption problem in enterprise. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>TechCrunch Security&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Core Collapse</title><link>https://blog.itsdavidg.co/posts/core-collapse/</link><pubDate>Mon, 09 Mar 2026 13:11:54 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/core-collapse/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Core Collapse. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>In Other News: ATT&amp;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</title><link>https://blog.itsdavidg.co/posts/in-other-news-attck-advisory-council-russian-cyberattacks-ai/</link><pubDate>Fri, 27 Feb 2026 12:00:02 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/in-other-news-attck-advisory-council-russian-cyberattacks-ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Security Week has unveiled In Other News: ATT&amp;amp;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
-&lt;p>This significant development was originally reported by &lt;strong>Security Week&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Enterprise CRM Automation in 2026: Maximizing Salesforce, HubSpot, and Microsoft Dynamics ROI</title><link>https://blog.itsdavidg.co/posts/crm_automation/</link><pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/crm_automation/</guid><description>&lt;h2 id="introduction-the-crm-automation-imperative">Introduction: The CRM Automation Imperative&lt;/h2>
-&lt;p>Customer Relationship Management (CRM) systems have evolved from simple contact databases into sophisticated platforms that can orchestrate entire customer journeys. According to Gartner&amp;rsquo;s 2025 CRM Market Analysis, organizations using advanced CRM automation achieve 47% higher customer retention rates, 35% shorter sales cycles, and 28% higher revenue per salesperson compared to those using basic CRM functionality.&lt;/p>
-&lt;p>Yet despite significant investment—global CRM spending reached $82 billion in 2025 according to Statista—many organizations fail to realize full platform value. Salesforce research indicates that 68% of CRM features go unused in the average implementation, representing massive wasted potential.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automation on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/automation/</link>
+    <description>Recent content in Automation on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Mar 2026 12:00:02 +0000</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Elastic Beanstalk now supports GitHub Actions for automated application deployment</title>
+      <link>https://blog.itsdavidg.co/posts/aws-elastic-beanstalk-now-supports-github-actions-for-automa/</link>
+      <pubDate>Fri, 20 Mar 2026 12:00:02 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws-elastic-beanstalk-now-supports-github-actions-for-automa/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Elastic Beanstalk now supports GitHub Actions for automated application deployment. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon EC2 X8i instances are now available in Europe (Stockholm)</title>
+      <link>https://blog.itsdavidg.co/posts/amazon-ec2-x8i-instances-are-now-available-in-europe-stockho/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/amazon-ec2-x8i-instances-are-now-available-in-europe-stockho/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EC2 X8i instances are now available in Europe (Stockholm). This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.6 now available in Amazon Bedrock</title>
+      <link>https://blog.itsdavidg.co/posts/claude-sonnet-46-now-available-in-amazon-bedrock/</link>
+      <pubDate>Thu, 19 Mar 2026 04:00:06 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/claude-sonnet-46-now-available-in-amazon-bedrock/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Claude Sonnet 4.6 now available in Amazon Bedrock. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zero Trust in the Cloud: Designing Security Assurance at the Control Plane</title>
+      <link>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</link>
+      <pubDate>Wed, 18 Mar 2026 12:00:12 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust in the Cloud: Designing Security Assurance at the Control Plane. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design</title>
+      <link>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</link>
+      <pubDate>Wed, 18 Mar 2026 12:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds</title>
+      <link>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</link>
+      <pubDate>Wed, 18 Mar 2026 08:00:20 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled 79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leveling Up Autonomy in Agentic AI</title>
+      <link>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</link>
+      <pubDate>Wed, 18 Mar 2026 08:00:18 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Leveling Up Autonomy in Agentic AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Non-Human Identity Governance: Why IGA Falls Short</title>
+      <link>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</link>
+      <pubDate>Wed, 18 Mar 2026 08:00:08 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Non-Human Identity Governance: Why IGA Falls Short. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Great Divide: How AI Is Splitting the Cybersecurity Landscape</title>
+      <link>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</link>
+      <pubDate>Wed, 18 Mar 2026 08:00:06 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Great Divide: How AI Is Splitting the Cybersecurity Landscape. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Token Sprawl in the Age of AI</title>
+      <link>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</link>
+      <pubDate>Wed, 18 Mar 2026 00:00:19 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Token Sprawl in the Age of AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Patch Tuesday, February 2026 Edition</title>
+      <link>https://blog.itsdavidg.co/posts/patch-tuesday-february-2026-edition/</link>
+      <pubDate>Tue, 17 Mar 2026 04:00:08 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/patch-tuesday-february-2026-edition/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Krebs on Security has unveiled Patch Tuesday, February 2026 Edition. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Krebs on Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly</title>
+      <link>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</link>
+      <pubDate>Mon, 16 Mar 2026 12:00:07 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mogul says it has tracked $1.5B in music royalties, raised $5M in funding</title>
+      <link>https://blog.itsdavidg.co/posts/mogul-says-it-has-tracked-15b-in-music-royalties-raised-5m-i/</link>
+      <pubDate>Sun, 15 Mar 2026 04:00:08 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/mogul-says-it-has-tracked-15b-in-music-royalties-raised-5m-i/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Mogul says it has tracked $1.5B in music royalties, raised $5M in funding. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS AppConfig integrates with New Relic for automated rollbacks</title>
+      <link>https://blog.itsdavidg.co/posts/aws-appconfig-integrates-with-new-relic-for-automated-rollba/</link>
+      <pubDate>Sat, 14 Mar 2026 20:00:02 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws-appconfig-integrates-with-new-relic-for-automated-rollba/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS AppConfig integrates with New Relic for automated rollbacks. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uber engineers built an AI version of their boss</title>
+      <link>https://blog.itsdavidg.co/posts/uber-engineers-built-an-ai-version-of-their-boss/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:03 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/uber-engineers-built-an-ai-version-of-their-boss/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Uber engineers built an AI version of their boss. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nvidia challenger AI chip startup MatX raised $500M</title>
+      <link>https://blog.itsdavidg.co/posts/nvidia-challenger-ai-chip-startup-matx-raised-500m/</link>
+      <pubDate>Fri, 13 Mar 2026 20:00:04 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/nvidia-challenger-ai-chip-startup-matx-raised-500m/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Nvidia challenger AI chip startup MatX raised $500M. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation</title>
+      <link>https://blog.itsdavidg.co/posts/aws-compute-optimizer-now-applies-aws-generated-tags-to-ebs-/</link>
+      <pubDate>Fri, 13 Mar 2026 16:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/aws-compute-optimizer-now-applies-aws-generated-tags-to-ebs-/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Security: When Authorization Outlives Intent</title>
+      <link>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</link>
+      <pubDate>Thu, 12 Mar 2026 16:00:14 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: When Authorization Outlives Intent. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini can now automate some multi-step tasks on Android</title>
+      <link>https://blog.itsdavidg.co/posts/gemini-can-now-automate-some-multi-step-tasks-on-android/</link>
+      <pubDate>Thu, 12 Mar 2026 04:00:07 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/gemini-can-now-automate-some-multi-step-tasks-on-android/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Gemini can now automate some multi-step tasks on Android. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alphabet-owned robotics software company Intrinsic joins Google</title>
+      <link>https://blog.itsdavidg.co/posts/alphabet-owned-robotics-software-company-intrinsic-joins-goo/</link>
+      <pubDate>Wed, 11 Mar 2026 20:00:07 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/alphabet-owned-robotics-software-company-intrinsic-joins-goo/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Alphabet-owned robotics software company Intrinsic joins Google. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon EC2 R8a instances now available in the Europe (Ireland) region</title>
+      <link>https://blog.itsdavidg.co/posts/amazon-ec2-r8a-instances-now-available-in-the-europe-ireland/</link>
+      <pubDate>Wed, 11 Mar 2026 08:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/amazon-ec2-r8a-instances-now-available-in-the-europe-ireland/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EC2 R8a instances now available in the Europe (Ireland) region. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agentic AI and the New Reality of Financial Security</title>
+      <link>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</link>
+      <pubDate>Tue, 10 Mar 2026 20:00:13 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Agentic AI and the New Reality of Financial Security. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trace raises $3M to solve the AI agent adoption problem in enterprise</title>
+      <link>https://blog.itsdavidg.co/posts/trace-raises-3m-to-solve-the-ai-agent-adoption-problem-in-en/</link>
+      <pubDate>Tue, 10 Mar 2026 20:00:10 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/trace-raises-3m-to-solve-the-ai-agent-adoption-problem-in-en/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, TechCrunch Security has unveiled Trace raises $3M to solve the AI agent adoption problem in enterprise. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;TechCrunch Security&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Core Collapse</title>
+      <link>https://blog.itsdavidg.co/posts/core-collapse/</link>
+      <pubDate>Mon, 09 Mar 2026 13:11:54 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/core-collapse/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Core Collapse. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>In Other News: ATT&amp;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</title>
+      <link>https://blog.itsdavidg.co/posts/in-other-news-attck-advisory-council-russian-cyberattacks-ai/</link>
+      <pubDate>Fri, 27 Feb 2026 12:00:02 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/in-other-news-attck-advisory-council-russian-cyberattacks-ai/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Security Week has unveiled In Other News: ATT&amp;amp;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
+&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Security Week&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enterprise CRM Automation in 2026: Maximizing Salesforce, HubSpot, and Microsoft Dynamics ROI</title>
+      <link>https://blog.itsdavidg.co/posts/crm_automation/</link>
+      <pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/crm_automation/</guid>
+      <description>&lt;h2 id=&#34;introduction-the-crm-automation-imperative&#34;&gt;Introduction: The CRM Automation Imperative&lt;/h2&gt;
+&lt;p&gt;Customer Relationship Management (CRM) systems have evolved from simple contact databases into sophisticated platforms that can orchestrate entire customer journeys. According to Gartner&amp;rsquo;s 2025 CRM Market Analysis, organizations using advanced CRM automation achieve 47% higher customer retention rates, 35% shorter sales cycles, and 28% higher revenue per salesperson compared to those using basic CRM functionality.&lt;/p&gt;
+&lt;p&gt;Yet despite significant investment—global CRM spending reached $82 billion in 2025 according to Statista—many organizations fail to realize full platform value. Salesforce research indicates that 68% of CRM features go unused in the average implementation, representing massive wasted potential.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

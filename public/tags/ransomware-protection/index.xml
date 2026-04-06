@@ -1,3 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ransomware Protection on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/ransomware-protection/</link><description>Recent content in Ransomware Protection on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/ransomware-protection/index.xml" rel="self" type="application/rss+xml"/><item><title>Enterprise Data Backup Strategy in 2026: Protection Against Ransomware and Disaster</title><link>https://blog.itsdavidg.co/posts/data_backup/</link><pubDate>Thu, 05 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/data_backup/</guid><description>&lt;h2 id="introduction-data-as-the-new-critical-infrastructure">Introduction: Data as the New Critical Infrastructure&lt;/h2>
-&lt;p>Data has become the most valuable asset for modern organizations. According to IDC&amp;rsquo;s 2025 Global DataSphere forecast, the world&amp;rsquo;s data will grow to 221 zettabytes by 2026, with enterprise data growing at 28% annually. More significantly, Veeam&amp;rsquo;s 2025 Data Protection Trends Report found that 76% of organizations experienced ransomware attacks targeting backups, making comprehensive data protection strategies mission-critical.&lt;/p>
-&lt;p>The consequences of data loss have never been more severe. IBM&amp;rsquo;s 2025 Cost of a Data Breach Report found that organizations without effective backup and recovery strategies experience breach costs 2.5x higher than those with mature capabilities. Beyond ransomware, organizations face threats from hardware failures, human error, natural disasters, and insider threats.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ransomware Protection on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/ransomware-protection/</link>
+    <description>Recent content in Ransomware Protection on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Mar 2026 08:00:00 -0500</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/ransomware-protection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enterprise Data Backup Strategy in 2026: Protection Against Ransomware and Disaster</title>
+      <link>https://blog.itsdavidg.co/posts/data_backup/</link>
+      <pubDate>Thu, 05 Mar 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/data_backup/</guid>
+      <description>&lt;h2 id=&#34;introduction-data-as-the-new-critical-infrastructure&#34;&gt;Introduction: Data as the New Critical Infrastructure&lt;/h2&gt;
+&lt;p&gt;Data has become the most valuable asset for modern organizations. According to IDC&amp;rsquo;s 2025 Global DataSphere forecast, the world&amp;rsquo;s data will grow to 221 zettabytes by 2026, with enterprise data growing at 28% annually. More significantly, Veeam&amp;rsquo;s 2025 Data Protection Trends Report found that 76% of organizations experienced ransomware attacks targeting backups, making comprehensive data protection strategies mission-critical.&lt;/p&gt;
+&lt;p&gt;The consequences of data loss have never been more severe. IBM&amp;rsquo;s 2025 Cost of a Data Breach Report found that organizations without effective backup and recovery strategies experience breach costs 2.5x higher than those with mature capabilities. Beyond ransomware, organizations face threats from hardware failures, human error, natural disasters, and insider threats.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

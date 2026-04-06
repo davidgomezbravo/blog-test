@@ -2,7 +2,7 @@
 title: "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India"
 date: 2026-03-25T20:00:16
 draft: false
-tags: ["news", "techcrunch-security]
+tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
 original_url: "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/"

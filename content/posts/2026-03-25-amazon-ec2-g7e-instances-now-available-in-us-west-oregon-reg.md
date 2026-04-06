@@ -2,7 +2,7 @@
 title: "Amazon EC2 G7e instances now available in US West (Oregon) region"
 date: 2026-03-25T20:00:03
 draft: false
-tags: ["news", "aws-news]
+tags: ["news", "aws-news"]
 categories: ["industry-news"]
 source: "AWS News"
 original_url: "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/"

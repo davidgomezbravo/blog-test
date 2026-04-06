@@ -1,3 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MLOps on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/mlops/</link><description>Recent content in MLOps on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.5</generator><language>en-us</language><lastBuildDate>Sun, 15 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/mlops/index.xml" rel="self" type="application/rss+xml"/><item><title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title><link>https://blog.itsdavidg.co/posts/mlops/</link><pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/mlops/</guid><description>&lt;h2 id="introduction-bridging-the-gap-between-ml-research-and-production">Introduction: Bridging the Gap Between ML Research and Production&lt;/h2>
-&lt;p>The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p>
-&lt;p>Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MLOps on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/mlops/</link>
+    <description>Recent content in MLOps on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Feb 2026 08:00:00 -0500</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title>
+      <link>https://blog.itsdavidg.co/posts/mlops/</link>
+      <pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/mlops/</guid>
+      <description>&lt;h2 id=&#34;introduction-bridging-the-gap-between-ml-research-and-production&#34;&gt;Introduction: Bridging the Gap Between ML Research and Production&lt;/h2&gt;
+&lt;p&gt;The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p&gt;
+&lt;p&gt;Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
