@@ -1,6 +1,6 @@
 ---
 title: "Happy 16th Birthday, KrebsOnSecurity.com!"
-date: 2026-04-08T10:45:39
+date: 2026-04-08T12:00:03
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

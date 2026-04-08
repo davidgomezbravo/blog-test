@@ -1,6 +1,6 @@
 ---
 title: "Who Benefited from the Aisuru and Kimwolf Botnets?"
-date: 2026-04-08T10:45:38
+date: 2026-04-08T12:00:02
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

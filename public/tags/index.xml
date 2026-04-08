@@ -6,76 +6,244 @@
     <description>Recent content in Tags on David Gomez - Technology &amp; Business Insights</description>
     <generator>Hugo -- 0.146.7</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 12:00:05 +0000</lastBuildDate>
     <atom:link href="https://blog.itsdavidg.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Krebs-on-Security</title>
+      <link>https://blog.itsdavidg.co/tags/krebs-on-security/</link>
+      <pubDate>Wed, 08 Apr 2026 12:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/krebs-on-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>https://blog.itsdavidg.co/tags/news/</link>
+      <pubDate>Wed, 08 Apr 2026 12:00:05 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/news/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://blog.itsdavidg.co/tags/ai/</link>
-      <pubDate>Mon, 06 Apr 2026 15:15:17 +0000</pubDate>
+      <pubDate>Tue, 07 Apr 2026 08:43:59 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>API</title>
+      <link>https://blog.itsdavidg.co/tags/api/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:59 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>https://blog.itsdavidg.co/tags/iot/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:59 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network</title>
+      <link>https://blog.itsdavidg.co/tags/network/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:59 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/network/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://blog.itsdavidg.co/tags/security/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:59 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersecurity</title>
+      <link>https://blog.itsdavidg.co/tags/cybersecurity/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:56 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>https://blog.itsdavidg.co/tags/technology/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:56 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://blog.itsdavidg.co/tags/automation/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:54 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure</title>
+      <link>https://blog.itsdavidg.co/tags/infrastructure/</link>
+      <pubDate>Tue, 07 Apr 2026 08:43:54 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Industry-Update</title>
+      <link>https://blog.itsdavidg.co/tags/industry-update/</link>
+      <pubDate>Tue, 07 Apr 2026 08:41:00 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/industry-update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techcrunch-Security</title>
+      <link>https://blog.itsdavidg.co/tags/techcrunch-security/</link>
+      <pubDate>Tue, 07 Apr 2026 08:00:12 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/techcrunch-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws-Cost-Optimization</title>
+      <link>https://blog.itsdavidg.co/tags/aws-cost-optimization/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/aws-cost-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ci/Cd-Optimization</title>
+      <link>https://blog.itsdavidg.co/tags/ci/cd-optimization/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/ci/cd-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud-Expert</title>
+      <link>https://blog.itsdavidg.co/tags/cloud-expert/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/cloud-expert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colombia</title>
+      <link>https://blog.itsdavidg.co/tags/colombia/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/colombia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cost-Optimization</title>
+      <link>https://blog.itsdavidg.co/tags/cost-optimization/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/cost-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cto</title>
+      <link>https://blog.itsdavidg.co/tags/cto/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/cto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops Lead</title>
+      <link>https://blog.itsdavidg.co/tags/devops-lead/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/devops-lead/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fintech-Security</title>
+      <link>https://blog.itsdavidg.co/tags/fintech-security/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/fintech-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Founder</title>
+      <link>https://blog.itsdavidg.co/tags/founder/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/founder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kubernetes-Automation</title>
+      <link>https://blog.itsdavidg.co/tags/kubernetes-automation/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/kubernetes-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scaling-Strategies</title>
+      <link>https://blog.itsdavidg.co/tags/scaling-strategies/</link>
+      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/scaling-strategies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Case-Study</title>
+      <link>https://blog.itsdavidg.co/tags/case-study/</link>
+      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/case-study/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Devops Engineer</title>
+      <link>https://blog.itsdavidg.co/tags/devops-engineer/</link>
+      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/devops-engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LinkedIn</title>
+      <link>https://blog.itsdavidg.co/tags/linkedin/</link>
+      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/linkedin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prospect-Intelligence</title>
+      <link>https://blog.itsdavidg.co/tags/prospect-intelligence/</link>
+      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/prospect-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>https://blog.itsdavidg.co/tags/cloud/</link>
+      <pubDate>Mon, 06 Apr 2026 15:31:29 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compliance</title>
+      <link>https://blog.itsdavidg.co/tags/compliance/</link>
+      <pubDate>Mon, 06 Apr 2026 15:31:26 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>https://blog.itsdavidg.co/tags/data/</link>
+      <pubDate>Mon, 06 Apr 2026 15:19:56 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Transformation</title>
       <link>https://blog.itsdavidg.co/tags/digital-transformation/</link>
-      <pubDate>Mon, 06 Apr 2026 15:15:17 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 15:17:20 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/digital-transformation/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
       <link>https://blog.itsdavidg.co/tags/innovation/</link>
-      <pubDate>Mon, 06 Apr 2026 15:15:17 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 15:17:20 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
       <link>https://blog.itsdavidg.co/tags/networking/</link>
-      <pubDate>Mon, 06 Apr 2026 15:15:17 +0000</pubDate>
+      <pubDate>Mon, 06 Apr 2026 15:17:20 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://blog.itsdavidg.co/tags/technology/</link>
-      <pubDate>Mon, 06 Apr 2026 15:15:17 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>API</title>
-      <link>https://blog.itsdavidg.co/tags/api/</link>
-      <pubDate>Mon, 06 Apr 2026 14:54:38 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/api/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Industry-Update</title>
-      <link>https://blog.itsdavidg.co/tags/industry-update/</link>
-      <pubDate>Mon, 06 Apr 2026 14:54:38 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/industry-update/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>https://blog.itsdavidg.co/tags/news/</link>
-      <pubDate>Mon, 06 Apr 2026 14:54:38 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Network</title>
-      <link>https://blog.itsdavidg.co/tags/network/</link>
-      <pubDate>Mon, 06 Apr 2026 14:54:35 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/network/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Data</title>
-      <link>https://blog.itsdavidg.co/tags/data/</link>
-      <pubDate>Mon, 06 Apr 2026 14:53:10 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/data/</guid>
       <description></description>
     </item>
     <item>
@@ -83,27 +251,6 @@
       <link>https://blog.itsdavidg.co/tags/aws/</link>
       <pubDate>Mon, 06 Apr 2026 14:53:09 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/aws/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud</title>
-      <link>https://blog.itsdavidg.co/tags/cloud/</link>
-      <pubDate>Mon, 06 Apr 2026 14:53:09 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/cloud/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>https://blog.itsdavidg.co/tags/security/</link>
-      <pubDate>Mon, 06 Apr 2026 14:53:09 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Infrastructure</title>
-      <link>https://blog.itsdavidg.co/tags/infrastructure/</link>
-      <pubDate>Mon, 06 Apr 2026 14:52:08 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/infrastructure/</guid>
       <description></description>
     </item>
     <item>
@@ -121,13 +268,6 @@
       <description></description>
     </item>
     <item>
-      <title>Compliance</title>
-      <link>https://blog.itsdavidg.co/tags/compliance/</link>
-      <pubDate>Mon, 06 Apr 2026 14:48:57 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/compliance/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Kubernetes</title>
       <link>https://blog.itsdavidg.co/tags/kubernetes/</link>
       <pubDate>Mon, 06 Apr 2026 14:48:56 +0000</pubDate>
@@ -139,20 +279,6 @@
       <link>https://blog.itsdavidg.co/tags/performance/</link>
       <pubDate>Mon, 06 Apr 2026 14:22:36 +0000</pubDate>
       <guid>https://blog.itsdavidg.co/tags/performance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Krebs-on-Security</title>
-      <link>https://blog.itsdavidg.co/tags/krebs-on-security/</link>
-      <pubDate>Mon, 06 Apr 2026 12:00:42 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/krebs-on-security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Techcrunch-Security</title>
-      <link>https://blog.itsdavidg.co/tags/techcrunch-security/</link>
-      <pubDate>Mon, 06 Apr 2026 12:00:33 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/techcrunch-security/</guid>
       <description></description>
     </item>
     <item>
@@ -317,13 +443,6 @@
       <description></description>
     </item>
     <item>
-      <title>IoT</title>
-      <link>https://blog.itsdavidg.co/tags/iot/</link>
-      <pubDate>Sat, 21 Mar 2026 08:00:01 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/iot/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Database</title>
       <link>https://blog.itsdavidg.co/tags/database/</link>
       <pubDate>Sat, 21 Mar 2026 04:00:03 +0000</pubDate>
@@ -359,13 +478,6 @@
       <description></description>
     </item>
     <item>
-      <title>Automation</title>
-      <link>https://blog.itsdavidg.co/tags/automation/</link>
-      <pubDate>Fri, 20 Mar 2026 12:00:02 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Agile</title>
       <link>https://blog.itsdavidg.co/tags/agile/</link>
       <pubDate>Wed, 18 Mar 2026 08:00:00 -0500</pubDate>
@@ -384,13 +496,6 @@
       <link>https://blog.itsdavidg.co/tags/project-management/</link>
       <pubDate>Wed, 18 Mar 2026 08:00:00 -0500</pubDate>
       <guid>https://blog.itsdavidg.co/tags/project-management/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersecurity</title>
-      <link>https://blog.itsdavidg.co/tags/cybersecurity/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:11 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/cybersecurity/</guid>
       <description></description>
     </item>
     <item>
@@ -741,13 +846,6 @@
       <link>https://blog.itsdavidg.co/tags/b2b-marketing/</link>
       <pubDate>Wed, 18 Feb 2026 08:00:00 -0500</pubDate>
       <guid>https://blog.itsdavidg.co/tags/b2b-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LinkedIn</title>
-      <link>https://blog.itsdavidg.co/tags/linkedin/</link>
-      <pubDate>Wed, 18 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/tags/linkedin/</guid>
       <description></description>
     </item>
     <item>

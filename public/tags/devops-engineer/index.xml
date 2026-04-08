@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Devops Engineer on David Gomez - Technology &amp; Business Insights</title>
+    <link>https://blog.itsdavidg.co/tags/devops-engineer/</link>
+    <description>Recent content in Devops Engineer on David Gomez - Technology &amp; Business Insights</description>
+    <generator>Hugo -- 0.146.7</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2026 15:33:57 +0000</lastBuildDate>
+    <atom:link href="https://blog.itsdavidg.co/tags/devops-engineer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevOps Team Struggles with Security Compliance</title>
+      <link>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</link>
+      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
+      <guid>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</guid>
+      <description>&lt;h2 id=&#34;linkedin-insights-devops-team-struggles-with-security-compliance&#34;&gt;LinkedIn Insights: DevOps Team Struggles with Security Compliance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Originally shared by Mike Rodriguez (DevOps Engineer at GrowthCo) on LinkedIn&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://linkedin.com/posts/mikerodriguez-devops-security&#34;&gt;View original LinkedIn post →&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;
+&lt;p&gt;Mike Rodriguez&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Our DevOps team spent weeks trying to implement proper security monitoring. The challenge wasn&amp;rsquo;t technical - it was knowing where to start. We needed a framework that balanced security with development speed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

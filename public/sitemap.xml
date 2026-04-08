@@ -2,53 +2,356 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.itsdavidg.co/tags/ai/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/categories/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/digital-transformation/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-drones-to-diplomas-how-russias-largest-private-university-is/</loc>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/categories/industry-news/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/innovation/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/networking/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/categories/techcrunch-security/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/technology/</loc>
-    <lastmod>2026-04-06T15:15:17+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/peak-xv-raises-13b-doubles-down-on-ai-as-global-vc-rivalry-i/</loc>
-    <lastmod>2026-04-06T15:15:14+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/api/</loc>
-    <lastmod>2026-04-06T14:54:38+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/industry-update/</loc>
-    <lastmod>2026-04-06T14:54:38+00:00</lastmod>
+    <loc>https://blog.itsdavidg.co/tags/krebs-on-security/</loc>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/tags/news/</loc>
-    <lastmod>2026-04-06T14:54:38+00:00</lastmod>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/</loc>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-sms-phishers-pivot-to-points-taxes-fake-retailers/</loc>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/</loc>
+    <lastmod>2026-04-08T12:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-microsoft-patch-tuesday-december-2025-edition/</loc>
+    <lastmod>2026-04-08T12:00:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-most-parked-domains-now-serving-malicious-content/</loc>
+    <lastmod>2026-04-08T12:00:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-dismantling-defenses-trump-20-cyber-year-in-review/</loc>
+    <lastmod>2026-04-08T12:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-happy-16th-birthday-krebsonsecuritycom/</loc>
+    <lastmod>2026-04-08T12:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-the-kimwolf-botnet-is-stalking-your-local-network/</loc>
+    <lastmod>2026-04-08T12:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-who-benefited-from-the-aisuru-and-kimwolf-botnets/</loc>
+    <lastmod>2026-04-08T12:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-08-patch-tuesday-january-2026-edition/</loc>
+    <lastmod>2026-04-08T12:00:01+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-sms-phishers-pivot-to-points-taxes-fake-retailers/</loc>
+    <lastmod>2026-04-07T20:00:13+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-drones-to-diplomas-how-russias-largest-private-university-is/</loc>
+    <lastmod>2026-04-07T20:00:11+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-microsoft-patch-tuesday-december-2025-edition/</loc>
+    <lastmod>2026-04-07T20:00:09+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-most-parked-domains-now-serving-malicious-content/</loc>
+    <lastmod>2026-04-07T20:00:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-dismantling-defenses-trump-20-cyber-year-in-review/</loc>
+    <lastmod>2026-04-07T20:00:07+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-happy-16th-birthday-krebsonsecuritycom/</loc>
+    <lastmod>2026-04-07T20:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-the-kimwolf-botnet-is-stalking-your-local-network/</loc>
+    <lastmod>2026-04-07T20:00:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-patch-tuesday-january-2026-edition/</loc>
+    <lastmod>2026-04-07T20:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-who-benefited-from-the-aisuru-and-kimwolf-botnets/</loc>
+    <lastmod>2026-04-07T20:00:02+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/ai/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/api/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/iot/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/kimwolf-botnet-lurking-in-corporate-govt-networks/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/krebs-on-security/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/network/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/security/</loc>
+    <lastmod>2026-04-07T08:43:59+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlockin/</loc>
+    <lastmod>2026-04-07T08:43:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/cybersecurity/</loc>
+    <lastmod>2026-04-07T08:43:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/techcrunch-security/</loc>
+    <lastmod>2026-04-07T08:43:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/technology/</loc>
+    <lastmod>2026-04-07T08:43:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/automation/</loc>
+    <lastmod>2026-04-07T08:43:54+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/infrastructure/</loc>
+    <lastmod>2026-04-07T08:43:54+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/second-and-last-chance-for-innovators-to-win-scaling-perks-b/</loc>
+    <lastmod>2026-04-07T08:43:54+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/at-a-critical-moment-snap-loses-a-top-specs-exec/</loc>
+    <lastmod>2026-04-07T08:43:51+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting/</loc>
+    <lastmod>2026-04-07T08:43:49+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosy/</loc>
+    <lastmod>2026-04-07T08:41:02+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/googles-new-gemini-pro-model-has-record-benchmark-scores-aga/</loc>
+    <lastmod>2026-04-07T08:41:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/industry-update/</loc>
+    <lastmod>2026-04-07T08:41:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/ali-partovis-neo-looks-to-upend-the-accelerator-model-with-l/</loc>
+    <lastmod>2026-04-07T08:40:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-kimwolf-botnet-lurking-in-corporate-govt-networks/</loc>
+    <lastmod>2026-04-07T08:00:13+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlockin/</loc>
+    <lastmod>2026-04-07T08:00:12+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/techcrunch-security/</loc>
+    <lastmod>2026-04-07T08:00:12+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-second-and-last-chance-for-innovators-to-win-scaling-perks-b/</loc>
+    <lastmod>2026-04-07T08:00:11+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-at-a-critical-moment-snap-loses-a-top-specs-exec/</loc>
+    <lastmod>2026-04-07T08:00:10+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting/</loc>
+    <lastmod>2026-04-07T08:00:09+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosy/</loc>
+    <lastmod>2026-04-07T08:00:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-googles-new-gemini-pro-model-has-record-benchmark-scores-aga/</loc>
+    <lastmod>2026-04-07T08:00:06+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-ali-partovis-neo-looks-to-upend-the-accelerator-model-with-l/</loc>
+    <lastmod>2026-04-07T08:00:05+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-general-catalyst-commits-5b-to-india-over-five-years/</loc>
+    <lastmod>2026-04-07T08:00:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-07-uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-comp/</loc>
+    <lastmod>2026-04-07T08:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-sms-phishers-pivot-to-points-taxes-fake-retailers/</loc>
+    <lastmod>2026-04-06T20:00:41+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-drones-to-diplomas-how-russias-largest-private-university-is/</loc>
+    <lastmod>2026-04-06T20:00:40+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-microsoft-patch-tuesday-december-2025-edition/</loc>
+    <lastmod>2026-04-06T20:00:38+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-most-parked-domains-now-serving-malicious-content/</loc>
+    <lastmod>2026-04-06T20:00:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-dismantling-defenses-trump-20-cyber-year-in-review/</loc>
+    <lastmod>2026-04-06T20:00:35+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-happy-16th-birthday-krebsonsecuritycom/</loc>
+    <lastmod>2026-04-06T20:00:34+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-the-kimwolf-botnet-is-stalking-your-local-network/</loc>
+    <lastmod>2026-04-06T20:00:33+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-who-benefited-from-the-aisuru-and-kimwolf-botnets/</loc>
+    <lastmod>2026-04-06T20:00:32+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-patch-tuesday-january-2026-edition/</loc>
+    <lastmod>2026-04-06T20:00:30+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-kimwolf-botnet-lurking-in-corporate-govt-networks/</loc>
+    <lastmod>2026-04-06T20:00:29+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlockin/</loc>
+    <lastmod>2026-04-06T20:00:28+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-second-and-last-chance-for-innovators-to-win-scaling-perks-b/</loc>
+    <lastmod>2026-04-06T20:00:24+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-at-a-critical-moment-snap-loses-a-top-specs-exec/</loc>
+    <lastmod>2026-04-06T20:00:22+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting/</loc>
+    <lastmod>2026-04-06T20:00:20+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosy/</loc>
+    <lastmod>2026-04-06T20:00:13+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-googles-new-gemini-pro-model-has-record-benchmark-scores-aga/</loc>
+    <lastmod>2026-04-06T20:00:09+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-ali-partovis-neo-looks-to-upend-the-accelerator-model-with-l/</loc>
+    <lastmod>2026-04-06T20:00:08+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-general-catalyst-commits-5b-to-india-over-five-years/</loc>
+    <lastmod>2026-04-06T20:00:06+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/2026-04-06-uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-comp/</loc>
+    <lastmod>2026-04-06T20:00:04+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-kubernetes-automation/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/aws-cost-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/bereach-driven/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/ci/cd-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/cloud-expert/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/colombia/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/colombia-tech/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-aws-cost-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/cost-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/cto/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/devops-lead/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-scaling-strategies/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/fintech-security/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/founder/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/kubernetes-automation/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/lead-intelligence/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/scaling-strategies/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-fintech-security/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-cost-optimization/</loc>
+    <lastmod>2026-04-06T17:44:37+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/case-study/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/devops-engineer/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/linkedin/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/linkedin-insights/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/prospect-intelligence/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/categories/prospect-stories/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/demo-linkedin-startup-founders-dilemma-build-vs-buy-for-infrastructure/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/demo-linkedin-why-our-startup-reduced-aws-costs-by-60/</loc>
+    <lastmod>2026-04-06T15:33:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/cloud/</loc>
+    <lastmod>2026-04-06T15:31:29+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/general-catalyst-commits-5b-to-india-over-five-years/</loc>
+    <lastmod>2026-04-06T15:31:29+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/compliance/</loc>
+    <lastmod>2026-04-06T15:31:26+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-comp/</loc>
+    <lastmod>2026-04-06T15:31:26+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/the-openai-mafia-18-startups-founded-by-alumni/</loc>
+    <lastmod>2026-04-06T15:19:58+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chat/</loc>
+    <lastmod>2026-04-06T15:19:57+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/data/</loc>
+    <lastmod>2026-04-06T15:19:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/why-investors-are-going-gaga-over-solid-state-transformers/</loc>
+    <lastmod>2026-04-06T15:19:56+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/digital-transformation/</loc>
+    <lastmod>2026-04-06T15:17:20+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/innovation/</loc>
+    <lastmod>2026-04-06T15:17:20+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/tags/networking/</loc>
+    <lastmod>2026-04-06T15:17:20+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/techcrunch-disrupt-2026-super-early-bird-rates-end-in-1-week/</loc>
+    <lastmod>2026-04-06T15:17:20+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.itsdavidg.co/posts/peak-xv-raises-13b-doubles-down-on-ai-as-global-vc-rivalry-i/</loc>
+    <lastmod>2026-04-06T15:17:17+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/prepare-for-pitch-battle-startup-battlefield-200-nominations/</loc>
     <lastmod>2026-04-06T14:54:38+00:00</lastmod>
@@ -62,14 +365,8 @@
     <loc>https://blog.itsdavidg.co/posts/metas-metaverse-leaves-virtual-reality/</loc>
     <lastmod>2026-04-06T14:54:35+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/network/</loc>
-    <lastmod>2026-04-06T14:54:35+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/</loc>
     <lastmod>2026-04-06T14:54:34+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/data/</loc>
-    <lastmod>2026-04-06T14:53:10+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/threads-posts-can-now-be-shared-directly-to-your-instagram-s/</loc>
     <lastmod>2026-04-06T14:53:10+00:00</lastmod>
@@ -77,13 +374,7 @@
     <loc>https://blog.itsdavidg.co/tags/aws/</loc>
     <lastmod>2026-04-06T14:53:09+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/cloud/</loc>
-    <lastmod>2026-04-06T14:53:09+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-t/</loc>
-    <lastmod>2026-04-06T14:53:09+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/security/</loc>
     <lastmod>2026-04-06T14:53:09+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/categories/security-week/</loc>
@@ -113,9 +404,6 @@
     <loc>https://blog.itsdavidg.co/posts/in-other-news-ransomware-shuts-us-clinics-ics-vulnerability-/</loc>
     <lastmod>2026-04-06T14:52:08+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/infrastructure/</loc>
-    <lastmod>2026-04-06T14:52:08+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/nists-quantum-breakthrough-single-photons-produced-on-a-chip/</loc>
     <lastmod>2026-04-06T14:51:26+00:00</lastmod>
   </url><url>
@@ -143,9 +431,6 @@
     <loc>https://blog.itsdavidg.co/posts/amazon-ec2-g7e-instances-now-available-in-us-west-oregon-reg/</loc>
     <lastmod>2026-04-06T14:48:58+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/compliance/</loc>
-    <lastmod>2026-04-06T14:48:57+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/structured-outputs-now-available-in-amazon-bedrock/</loc>
     <lastmod>2026-04-06T14:48:57+00:00</lastmod>
   </url><url>
@@ -163,69 +448,6 @@
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/amazon-ec2-capacity-blocks-for-ml-can-be-shared-across-multi/</loc>
     <lastmod>2026-04-06T14:22:33+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/krebs-on-security/</loc>
-    <lastmod>2026-04-06T12:00:42+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-sms-phishers-pivot-to-points-taxes-fake-retailers/</loc>
-    <lastmod>2026-04-06T12:00:42+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-drones-to-diplomas-how-russias-largest-private-university-is/</loc>
-    <lastmod>2026-04-06T12:00:41+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-microsoft-patch-tuesday-december-2025-edition/</loc>
-    <lastmod>2026-04-06T12:00:40+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-most-parked-domains-now-serving-malicious-content/</loc>
-    <lastmod>2026-04-06T12:00:40+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-dismantling-defenses-trump-20-cyber-year-in-review/</loc>
-    <lastmod>2026-04-06T12:00:38+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-happy-16th-birthday-krebsonsecuritycom/</loc>
-    <lastmod>2026-04-06T12:00:37+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-the-kimwolf-botnet-is-stalking-your-local-network/</loc>
-    <lastmod>2026-04-06T12:00:36+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-who-benefited-from-the-aisuru-and-kimwolf-botnets/</loc>
-    <lastmod>2026-04-06T12:00:35+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-kimwolf-botnet-lurking-in-corporate-govt-networks/</loc>
-    <lastmod>2026-04-06T12:00:34+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-patch-tuesday-january-2026-edition/</loc>
-    <lastmod>2026-04-06T12:00:34+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-cellebrite-cut-off-serbia-citing-abuse-of-its-phone-unlockin/</loc>
-    <lastmod>2026-04-06T12:00:33+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-second-and-last-chance-for-innovators-to-win-scaling-perks-b/</loc>
-    <lastmod>2026-04-06T12:00:33+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/techcrunch-security/</loc>
-    <lastmod>2026-04-06T12:00:33+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-at-a-critical-moment-snap-loses-a-top-specs-exec/</loc>
-    <lastmod>2026-04-06T12:00:32+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting/</loc>
-    <lastmod>2026-04-06T12:00:31+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-googles-new-gemini-pro-model-has-record-benchmark-scores-aga/</loc>
-    <lastmod>2026-04-06T12:00:29+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosy/</loc>
-    <lastmod>2026-04-06T12:00:29+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-ali-partovis-neo-looks-to-upend-the-accelerator-model-with-l/</loc>
-    <lastmod>2026-04-06T12:00:28+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-general-catalyst-commits-5b-to-india-over-five-years/</loc>
-    <lastmod>2026-04-06T12:00:26+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/posts/2026-04-06-uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-comp/</loc>
-    <lastmod>2026-04-06T12:00:26+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/2026-04-06-the-openai-mafia-18-startups-founded-by-alumni/</loc>
     <lastmod>2026-04-06T12:00:24+00:00</lastmod>
@@ -755,9 +977,6 @@
     <loc>https://blog.itsdavidg.co/posts/aws-config-now-supports-30-new-resource-types/</loc>
     <lastmod>2026-03-21T08:00:01+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/iot/</loc>
-    <lastmod>2026-03-21T08:00:01+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/amazon-bedrock-agentcore-browser-now-supports-browser-profil/</loc>
     <lastmod>2026-03-21T04:00:06+00:00</lastmod>
   </url><url>
@@ -847,9 +1066,6 @@
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/aws-lake-formation-enhances-cross-account-sharing/</loc>
     <lastmod>2026-03-20T12:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/automation/</loc>
-    <lastmod>2026-03-20T12:00:02+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/aws-elastic-beanstalk-now-supports-github-actions-for-automa/</loc>
     <lastmod>2026-03-20T12:00:02+00:00</lastmod>
@@ -1058,9 +1274,6 @@
     <loc>https://blog.itsdavidg.co/posts/bridging-the-gap-between-cloud-security-controls-and-adversa/</loc>
     <lastmod>2026-03-18T08:00:11+00:00</lastmod>
   </url><url>
-    <loc>https://blog.itsdavidg.co/tags/cybersecurity/</loc>
-    <lastmod>2026-03-18T08:00:11+00:00</lastmod>
-  </url><url>
     <loc>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</loc>
     <lastmod>2026-03-18T08:00:08+00:00</lastmod>
   </url><url>
@@ -1153,9 +1366,6 @@
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-en/</loc>
     <lastmod>2026-03-17T08:00:05+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/categories/krebs-on-security/</loc>
-    <lastmod>2026-03-17T08:00:04+00:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/who-operates-the-badbox-20-botnet/</loc>
     <lastmod>2026-03-17T08:00:04+00:00</lastmod>
@@ -2349,9 +2559,6 @@
     <lastmod>2026-02-20T08:00:00-05:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/tags/b2b-marketing/</loc>
-    <lastmod>2026-02-18T08:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.itsdavidg.co/tags/linkedin/</loc>
     <lastmod>2026-02-18T08:00:00-05:00</lastmod>
   </url><url>
     <loc>https://blog.itsdavidg.co/posts/linkedin_leads/</loc>
