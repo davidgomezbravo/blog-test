@@ -1,6 +1,6 @@
 ---
 title: "Dismantling Defenses: Trump 2.0 Cyber Year in Review"
-date: 2026-04-06T12:00:38
+date: 2026-04-06T20:00:35
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

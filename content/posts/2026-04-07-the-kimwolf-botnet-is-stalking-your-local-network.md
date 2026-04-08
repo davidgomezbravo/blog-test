@@ -1,18 +1,18 @@
 ---
-title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-06T20:00:30
+title: "The Kimwolf Botnet is Stalking Your Local Network"
+date: 2026-04-07T20:00:04
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
-original_url: "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
+original_url: "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/"
 ---
 
-## Patch Tuesday, January 2026 Edition
+## The Kimwolf Botnet is Stalking Your Local Network
 
 *Originally published by Krebs on Security*
 
-[Read original article →](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+[Read original article →](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 
 ### Summary
 

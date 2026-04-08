@@ -1,6 +1,6 @@
 ---
 title: "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill"
-date: 2026-04-06T12:00:41
+date: 2026-04-06T20:00:40
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

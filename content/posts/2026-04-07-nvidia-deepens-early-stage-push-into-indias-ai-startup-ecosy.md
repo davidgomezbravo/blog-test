@@ -1,18 +1,18 @@
 ---
-title: "Second and last chance for innovators to win scaling perks: Belden extends nomination window"
-date: 2026-04-06T20:00:24
+title: "Nvidia deepens early-stage push into India’s AI startup ecosystem"
+date: 2026-04-07T08:00:08
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
-original_url: "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/"
+original_url: "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/"
 ---
 
-## Second and last chance for innovators to win scaling perks: Belden extends nomination window
+## Nvidia deepens early-stage push into India’s AI startup ecosystem
 
 *Originally published by TechCrunch Security*
 
-[Read original article →](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/)
+[Read original article →](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/)
 
 ### Summary
 

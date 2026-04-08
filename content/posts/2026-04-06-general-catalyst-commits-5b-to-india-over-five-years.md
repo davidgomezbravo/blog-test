@@ -1,6 +1,6 @@
 ---
 title: "General Catalyst commits $5B to India over five years"
-date: 2026-04-06T12:00:26
+date: 2026-04-06T20:00:06
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]

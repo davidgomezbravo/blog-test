@@ -1,18 +1,18 @@
 ---
-title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-06T20:00:30
+title: "Happy 16th Birthday, KrebsOnSecurity.com!"
+date: 2026-04-08T10:45:39
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
-original_url: "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
+original_url: "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/"
 ---
 
-## Patch Tuesday, January 2026 Edition
+## Happy 16th Birthday, KrebsOnSecurity.com!
 
 *Originally published by Krebs on Security*
 
-[Read original article →](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+[Read original article →](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/)
 
 ### Summary
 

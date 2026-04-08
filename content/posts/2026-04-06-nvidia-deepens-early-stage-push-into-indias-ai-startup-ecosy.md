@@ -1,6 +1,6 @@
 ---
 title: "Nvidia deepens early-stage push into India’s AI startup ecosystem"
-date: 2026-04-06T12:00:29
+date: 2026-04-06T20:00:13
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]

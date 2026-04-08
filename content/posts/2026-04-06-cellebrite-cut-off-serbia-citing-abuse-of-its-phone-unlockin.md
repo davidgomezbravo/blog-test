@@ -1,6 +1,6 @@
 ---
 title: "Cellebrite cut off Serbia citing abuse of its phone unlocking tools. Why not others?"
-date: 2026-04-06T12:00:33
+date: 2026-04-06T20:00:28
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]

@@ -1,18 +1,18 @@
 ---
-title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-06T20:00:30
+title: "Who Benefited from the Aisuru and Kimwolf Botnets?"
+date: 2026-04-07T20:00:02
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
-original_url: "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
+original_url: "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/"
 ---
 
-## Patch Tuesday, January 2026 Edition
+## Who Benefited from the Aisuru and Kimwolf Botnets?
 
 *Originally published by Krebs on Security*
 
-[Read original article →](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+[Read original article →](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/)
 
 ### Summary
 

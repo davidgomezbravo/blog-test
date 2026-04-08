@@ -1,6 +1,6 @@
 ---
 title: "Google’s new Gemini Pro model has record benchmark scores — again"
-date: 2026-04-06T12:00:29
+date: 2026-04-06T20:00:09
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]

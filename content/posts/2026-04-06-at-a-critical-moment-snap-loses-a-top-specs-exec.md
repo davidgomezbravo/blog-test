@@ -1,6 +1,6 @@
 ---
 title: "At a critical moment, Snap loses a top Specs exec"
-date: 2026-04-06T12:00:32
+date: 2026-04-06T20:00:22
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]

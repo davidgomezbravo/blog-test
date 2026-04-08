@@ -1,18 +1,18 @@
 ---
-title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-06T20:00:30
+title: "Dismantling Defenses: Trump 2.0 Cyber Year in Review"
+date: 2026-04-07T20:00:07
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
-original_url: "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
+original_url: "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/"
 ---
 
-## Patch Tuesday, January 2026 Edition
+## Dismantling Defenses: Trump 2.0 Cyber Year in Review
 
 *Originally published by Krebs on Security*
 
-[Read original article →](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+[Read original article →](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/)
 
 ### Summary
 

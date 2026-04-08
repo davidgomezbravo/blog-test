@@ -1,18 +1,18 @@
 ---
-title: "Second and last chance for innovators to win scaling perks: Belden extends nomination window"
-date: 2026-04-06T20:00:24
+title: "General Catalyst commits $5B to India over five years"
+date: 2026-04-07T08:00:04
 draft: false
 tags: ["news", "techcrunch-security"]
 categories: ["industry-news"]
 source: "TechCrunch Security"
-original_url: "https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/"
+original_url: "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/"
 ---
 
-## Second and last chance for innovators to win scaling perks: Belden extends nomination window
+## General Catalyst commits $5B to India over five years
 
 *Originally published by TechCrunch Security*
 
-[Read original article →](https://techcrunch.com/2026/02/19/second-and-last-chance-for-innovators-to-win-scaling-perks-belden-extends-nomination-window/)
+[Read original article →](https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/)
 
 ### Summary
 

@@ -1,18 +1,18 @@
 ---
-title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-06T20:00:30
+title: "Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill"
+date: 2026-04-08T10:45:41
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
 source: "Krebs on Security"
-original_url: "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/"
+original_url: "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/"
 ---
 
-## Patch Tuesday, January 2026 Edition
+## Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill
 
 *Originally published by Krebs on Security*
 
-[Read original article →](https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/)
+[Read original article →](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/)
 
 ### Summary
 

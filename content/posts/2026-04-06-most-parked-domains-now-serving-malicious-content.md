@@ -1,6 +1,6 @@
 ---
 title: "Most Parked Domains Now Serving Malicious Content"
-date: 2026-04-06T12:00:40
+date: 2026-04-06T20:00:37
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
