@@ -1,46 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Cybersecurity on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/categories/cybersecurity/</link>
-    <description>Recent content in Cybersecurity on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Feb 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Complete Guide to Cybersecurity Risk Assessments in 2026: Frameworks, Methodologies, and Best Practices</title>
-      <link>https://blog.itsdavidg.co/posts/risk_assessment/</link>
-      <pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/risk_assessment/</guid>
-      <description>&lt;h2 id=&#34;introduction-why-risk-assessment-is-the-foundation-of-security&#34;&gt;Introduction: Why Risk Assessment is the Foundation of Security&lt;/h2&gt;
-&lt;p&gt;In an era where cyber threats evolve faster than defenses, understanding your organization&amp;rsquo;s risk posture has become mission-critical. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, organizations that conduct regular risk assessments experience breach costs that are $2.2 million lower on average than those that do not. More significantly, these organizations detect breaches 74 days faster—a crucial advantage when every hour of attacker access compounds damage.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cybersecurity Compliance in 2026: Navigating NIS2, SEC Rules, and Global Regulatory Requirements</title>
-      <link>https://blog.itsdavidg.co/posts/compliance/</link>
-      <pubDate>Sun, 25 Jan 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/compliance/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-compliance-landscape-has-fundamentally-changed&#34;&gt;Introduction: The Compliance Landscape Has Fundamentally Changed&lt;/h2&gt;
-&lt;p&gt;Regulatory requirements for cybersecurity have evolved from voluntary frameworks to mandatory legal obligations with severe penalties for non-compliance. The year 2026 marks full implementation of several transformative regulations that will reshape how organizations approach cybersecurity governance.&lt;/p&gt;
-&lt;p&gt;The European Union&amp;rsquo;s Network and Information Security Directive 2 (NIS2), which became fully enforceable in October 2024, expanded security requirements to over 160,000 organizations across Europe. In the United States, the SEC&amp;rsquo;s cybersecurity disclosure rules have fundamentally changed how public companies report incidents. Meanwhile, state-level regulations continue multiplying, creating a complex patchwork of requirements.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zero Trust Architecture in 2026: A Comprehensive Implementation Guide for Modern Enterprises</title>
-      <link>https://blog.itsdavidg.co/posts/zerotrust/</link>
-      <pubDate>Tue, 20 Jan 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/zerotrust/</guid>
-      <description>&lt;h2 id=&#34;introduction-why-zero-trust-is-no-longer-optional&#34;&gt;Introduction: Why Zero Trust is No Longer Optional&lt;/h2&gt;
-&lt;p&gt;The cybersecurity landscape has fundamentally shifted. The traditional perimeter-based security model—where everything inside the network is trusted and everything outside is suspect—has become obsolete. According to Gartner&amp;rsquo;s 2025 Security and Risk Management Survey, 80% of organizations have either implemented Zero Trust initiatives or plan to do so within the next 12 months, up from just 35% in 2022.&lt;/p&gt;
-&lt;p&gt;The statistics paint a clear picture of why this shift is necessary. IBM&amp;rsquo;s 2025 Cost of a Data Breach Report found that organizations with mature Zero Trust architectures experienced breach costs that were $1.76 million lower on average than those without. Forrester&amp;rsquo;s Total Economic Impact study showed that companies implementing Zero Trust saw a 50% reduction in security incidents and 40% faster threat detection.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Ransomware Crisis of 2026: Building Enterprise Defense Strategies That Actually Work</title>
-      <link>https://blog.itsdavidg.co/posts/ransomware/</link>
-      <pubDate>Thu, 15 Jan 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ransomware/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-escalating-threat-landscape&#34;&gt;Introduction: The Escalating Threat Landscape&lt;/h2&gt;
-&lt;p&gt;Ransomware has evolved from a nuisance to an existential threat for organizations worldwide. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, the average cost of a ransomware attack reached $4.88 million in 2025, representing a 13% increase from the previous year. More alarmingly, the Sophos State of Ransomware 2025 report found that 59% of organizations experienced ransomware attacks, with 70% of those attacks resulting in data encryption.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cybersecurity on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/cybersecurity/</link><description>Recent content in Cybersecurity on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml"/><item><title>The Complete Guide to Cybersecurity Risk Assessments in 2026: Frameworks, Methodologies, and Best Practices</title><link>https://blog.itsdavidg.co/posts/risk_assessment/</link><pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/risk_assessment/</guid><description>&lt;h2 id="introduction-why-risk-assessment-is-the-foundation-of-security">Introduction: Why Risk Assessment is the Foundation of Security&lt;/h2>
+&lt;p>In an era where cyber threats evolve faster than defenses, understanding your organization&amp;rsquo;s risk posture has become mission-critical. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, organizations that conduct regular risk assessments experience breach costs that are $2.2 million lower on average than those that do not. More significantly, these organizations detect breaches 74 days faster—a crucial advantage when every hour of attacker access compounds damage.&lt;/p></description></item><item><title>Cybersecurity Compliance in 2026: Navigating NIS2, SEC Rules, and Global Regulatory Requirements</title><link>https://blog.itsdavidg.co/posts/compliance/</link><pubDate>Sun, 25 Jan 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/compliance/</guid><description>&lt;h2 id="introduction-the-compliance-landscape-has-fundamentally-changed">Introduction: The Compliance Landscape Has Fundamentally Changed&lt;/h2>
+&lt;p>Regulatory requirements for cybersecurity have evolved from voluntary frameworks to mandatory legal obligations with severe penalties for non-compliance. The year 2026 marks full implementation of several transformative regulations that will reshape how organizations approach cybersecurity governance.&lt;/p>
+&lt;p>The European Union&amp;rsquo;s Network and Information Security Directive 2 (NIS2), which became fully enforceable in October 2024, expanded security requirements to over 160,000 organizations across Europe. In the United States, the SEC&amp;rsquo;s cybersecurity disclosure rules have fundamentally changed how public companies report incidents. Meanwhile, state-level regulations continue multiplying, creating a complex patchwork of requirements.&lt;/p></description></item><item><title>Zero Trust Architecture in 2026: A Comprehensive Implementation Guide for Modern Enterprises</title><link>https://blog.itsdavidg.co/posts/zerotrust/</link><pubDate>Tue, 20 Jan 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/zerotrust/</guid><description>&lt;h2 id="introduction-why-zero-trust-is-no-longer-optional">Introduction: Why Zero Trust is No Longer Optional&lt;/h2>
+&lt;p>The cybersecurity landscape has fundamentally shifted. The traditional perimeter-based security model—where everything inside the network is trusted and everything outside is suspect—has become obsolete. According to Gartner&amp;rsquo;s 2025 Security and Risk Management Survey, 80% of organizations have either implemented Zero Trust initiatives or plan to do so within the next 12 months, up from just 35% in 2022.&lt;/p>
+&lt;p>The statistics paint a clear picture of why this shift is necessary. IBM&amp;rsquo;s 2025 Cost of a Data Breach Report found that organizations with mature Zero Trust architectures experienced breach costs that were $1.76 million lower on average than those without. Forrester&amp;rsquo;s Total Economic Impact study showed that companies implementing Zero Trust saw a 50% reduction in security incidents and 40% faster threat detection.&lt;/p></description></item><item><title>The Ransomware Crisis of 2026: Building Enterprise Defense Strategies That Actually Work</title><link>https://blog.itsdavidg.co/posts/ransomware/</link><pubDate>Thu, 15 Jan 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/ransomware/</guid><description>&lt;h2 id="introduction-the-escalating-threat-landscape">Introduction: The Escalating Threat Landscape&lt;/h2>
+&lt;p>Ransomware has evolved from a nuisance to an existential threat for organizations worldwide. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, the average cost of a ransomware attack reached $4.88 million in 2025, representing a 13% increase from the previous year. More alarmingly, the Sophos State of Ransomware 2025 report found that 59% of organizations experienced ransomware attacks, with 70% of those attacks resulting in data encryption.&lt;/p></description></item></channel></rss>

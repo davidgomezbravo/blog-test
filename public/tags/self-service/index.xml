@@ -1,27 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Self-Service on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/self-service/</link>
-    <description>Recent content in Self-Service on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 09:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/self-service/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stop Asking &#39;Are We Overpaying?&#39; - Get the Answer Instantly</title>
-      <link>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</link>
-      <pubDate>Mon, 09 Mar 2026 09:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</guid>
-      <description>&lt;p&gt;Stop waiting hours for a busy engineer to answer a simple AWS question. With the right tool, you can audit your own infrastructure and get accurate, documentation-backed answers instantly.&lt;/p&gt;
-&lt;h2 id=&#34;stop-guessing-about-your-aws-bill&#34;&gt;Stop Guessing About Your AWS Bill&lt;/h2&gt;
-&lt;p&gt;How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Self-Service on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/self-service/</link><description>Recent content in Self-Service on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/self-service/index.xml" rel="self" type="application/rss+xml"/><item><title>Case Study: The $48K Question They Answered Themselves</title><link>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</link><pubDate>Thu, 09 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</guid><description>&lt;p>Real numbers from a real company that decided to stop waiting on senior engineers for infrastructure answers.&lt;/p>
+&lt;h2 id="the-company-15-person-saas-startup">The Company: 15-Person SaaS Startup&lt;/h2>
+&lt;p>&lt;strong>Team Size&lt;/strong>: 15 people (3 engineers)&lt;br>
+&lt;strong>Monthly AWS Spend&lt;/strong>: $8,400&lt;br>
+&lt;strong>The Problem&lt;/strong>: The non-technical founder had questions. The engineers were always busy.&lt;/p>
+&lt;h2 id="the-situation">The Situation&lt;/h2>
+&lt;p>Sarah (founder, non-technical) ran the business. She had questions about their AWS setup:&lt;/p>
+&lt;ul>
+&lt;li>&amp;ldquo;Are we overpaying for hosting?&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Is our data secure?&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;What happens if AWS goes down in one region?&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Can we handle 10x traffic growth?&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;p>But asking meant interrupting her engineering team, who were heads-down building features for the next release.&lt;/p></description></item><item><title>Stop Asking 'Are We Overpaying?' - Get the Answer Instantly</title><link>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</link><pubDate>Mon, 09 Mar 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-03-09-stop-asking-are-we-overpaying---get-the-answer-/</guid><description>&lt;p>Stop waiting hours for a busy engineer to answer a simple AWS question. With the right tool, you can audit your own infrastructure and get accurate, documentation-backed answers instantly.&lt;/p>
+&lt;h2 id="stop-guessing-about-your-aws-bill">Stop Guessing About Your AWS Bill&lt;/h2>
+&lt;p>How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p></description></item></channel></rss>

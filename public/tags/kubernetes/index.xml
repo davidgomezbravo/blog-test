@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Kubernetes on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/kubernetes/</link>
-    <description>Recent content in Kubernetes on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:48:56 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AWS Batch now supports unmanaged compute environments for Amazon EKS</title>
-      <link>https://blog.itsdavidg.co/posts/aws-batch-now-supports-unmanaged-compute-environments-for-am/</link>
-      <pubDate>Mon, 06 Apr 2026 14:48:56 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/aws-batch-now-supports-unmanaged-compute-environments-for-am/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Batch now supports unmanaged compute environments for Amazon EKS. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon EKS Auto Mode Announces Enhanced Logging for its Managed Kubernetes Capabilities</title>
-      <link>https://blog.itsdavidg.co/posts/amazon-eks-auto-mode-announces-enhanced-logging-for-its-mana/</link>
-      <pubDate>Sat, 21 Mar 2026 00:00:03 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/amazon-eks-auto-mode-announces-enhanced-logging-for-its-mana/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EKS Auto Mode Announces Enhanced Logging for its Managed Kubernetes Capabilities. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amazon EKS Node Monitoring Agent is now open source</title>
-      <link>https://blog.itsdavidg.co/posts/amazon-eks-node-monitoring-agent-is-now-open-source/</link>
-      <pubDate>Sat, 14 Mar 2026 16:00:03 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/amazon-eks-node-monitoring-agent-is-now-open-source/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EKS Node Monitoring Agent is now open source. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Kubernetes on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/kubernetes/</link><description>Recent content in Kubernetes on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 14:48:56 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/kubernetes/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Batch now supports unmanaged compute environments for Amazon EKS</title><link>https://blog.itsdavidg.co/posts/aws-batch-now-supports-unmanaged-compute-environments-for-am/</link><pubDate>Mon, 06 Apr 2026 14:48:56 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-batch-now-supports-unmanaged-compute-environments-for-am/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled AWS Batch now supports unmanaged compute environments for Amazon EKS. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Amazon EKS Auto Mode Announces Enhanced Logging for its Managed Kubernetes Capabilities</title><link>https://blog.itsdavidg.co/posts/amazon-eks-auto-mode-announces-enhanced-logging-for-its-mana/</link><pubDate>Sat, 21 Mar 2026 00:00:03 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/amazon-eks-auto-mode-announces-enhanced-logging-for-its-mana/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EKS Auto Mode Announces Enhanced Logging for its Managed Kubernetes Capabilities. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Amazon EKS Node Monitoring Agent is now open source</title><link>https://blog.itsdavidg.co/posts/amazon-eks-node-monitoring-agent-is-now-open-source/</link><pubDate>Sat, 14 Mar 2026 16:00:03 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/amazon-eks-node-monitoring-agent-is-now-open-source/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, AWS News has unveiled Amazon EKS Node Monitoring Agent is now open source. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item></channel></rss>

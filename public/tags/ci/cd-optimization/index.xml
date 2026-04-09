@@ -1,23 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ci/Cd-Optimization on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/ci/cd-optimization/</link>
-    <description>Recent content in Ci/Cd-Optimization on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:44:37 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/ci/cd-optimization/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Optimización de pipelines CI/CD: Casos de éxito locales: Perspectiva desde el Mercado Colombiano</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</guid>
-      <description>&lt;h2 id=&#34;basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona&#34;&gt;Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;
-&lt;h2 id=&#34;el-problema-real-en-colombia&#34;&gt;El Problema Real en Colombia&lt;/h2&gt;
-&lt;p&gt;Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ci/Cd-Optimization on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/ci/cd-optimization/</link><description>Recent content in Ci/Cd-Optimization on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 17:44:37 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/ci/cd-optimization/index.xml" rel="self" type="application/rss+xml"/><item><title>Optimización de pipelines CI/CD: Casos de éxito locales: Perspectiva desde el Mercado Colombiano</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</guid><description>&lt;h2 id="basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona">Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p>
+&lt;h2 id="el-problema-real-en-colombia">El Problema Real en Colombia&lt;/h2>
+&lt;p>Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p></description></item></channel></rss>

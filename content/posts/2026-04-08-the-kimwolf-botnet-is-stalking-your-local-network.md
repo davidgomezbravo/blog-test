@@ -1,6 +1,6 @@
 ---
 title: "The Kimwolf Botnet is Stalking Your Local Network"
-date: 2026-04-08T12:00:02
+date: 2026-04-08T20:00:04
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

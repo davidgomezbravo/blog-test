@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI Automation on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/ai-automation/</link>
-    <description>Recent content in AI Automation on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 10 Feb 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/ai-automation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI-Powered Business Automation in 2026: From Robotic Process Automation to Intelligent Workflows</title>
-      <link>https://blog.itsdavidg.co/posts/ai_automation/</link>
-      <pubDate>Tue, 10 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ai_automation/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-new-era-of-intelligent-automation&#34;&gt;Introduction: The New Era of Intelligent Automation&lt;/h2&gt;
-&lt;p&gt;The automation landscape has undergone a revolutionary transformation. What began as simple rule-based robotic process automation (RPA) has evolved into sophisticated AI-powered intelligent automation capable of understanding context, making decisions, and handling exceptions autonomously. According to Gartner&amp;rsquo;s 2025 Strategic Technology Trends, 80% of organizations have adopted intelligent automation technologies, with 45% now using AI-augmented automation tools that combine RPA, machine learning, and natural language processing.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Automation on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/ai-automation/</link><description>Recent content in AI Automation on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Tue, 10 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/ai-automation/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Powered Business Automation in 2026: From Robotic Process Automation to Intelligent Workflows</title><link>https://blog.itsdavidg.co/posts/ai_automation/</link><pubDate>Tue, 10 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/ai_automation/</guid><description>&lt;h2 id="introduction-the-new-era-of-intelligent-automation">Introduction: The New Era of Intelligent Automation&lt;/h2>
+&lt;p>The automation landscape has undergone a revolutionary transformation. What began as simple rule-based robotic process automation (RPA) has evolved into sophisticated AI-powered intelligent automation capable of understanding context, making decisions, and handling exceptions autonomously. According to Gartner&amp;rsquo;s 2025 Strategic Technology Trends, 80% of organizations have adopted intelligent automation technologies, with 45% now using AI-augmented automation tools that combine RPA, machine learning, and natural language processing.&lt;/p></description></item></channel></rss>

@@ -1,51 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Prospect-Intelligence on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/prospect-intelligence/</link>
-    <description>Recent content in Prospect-Intelligence on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:33:57 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/prospect-intelligence/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DevOps Team Struggles with Security Compliance</title>
-      <link>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</link>
-      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</guid>
-      <description>&lt;h2 id=&#34;linkedin-insights-devops-team-struggles-with-security-compliance&#34;&gt;LinkedIn Insights: DevOps Team Struggles with Security Compliance&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Originally shared by Mike Rodriguez (DevOps Engineer at GrowthCo) on LinkedIn&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://linkedin.com/posts/mikerodriguez-devops-security&#34;&gt;View original LinkedIn post →&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;
-&lt;p&gt;Mike Rodriguez&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Our DevOps team spent weeks trying to implement proper security monitoring. The challenge wasn&amp;rsquo;t technical - it was knowing where to start. We needed a framework that balanced security with development speed.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Startup Founder&#39;s Dilemma: Build vs Buy for Infrastructure</title>
-      <link>https://blog.itsdavidg.co/posts/demo-linkedin-startup-founders-dilemma-build-vs-buy-for-infrastructure/</link>
-      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/demo-linkedin-startup-founders-dilemma-build-vs-buy-for-infrastructure/</guid>
-      <description>&lt;h2 id=&#34;linkedin-insights-startup-founders-dilemma-build-vs-buy-for-infrastructure&#34;&gt;LinkedIn Insights: Startup Founder&amp;rsquo;s Dilemma: Build vs Buy for Infrastructure&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Originally shared by Alex Kim (Founder at StartupXYZ) on LinkedIn&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://linkedin.com/posts/alexkim-startup-infrastructure&#34;&gt;View original LinkedIn post →&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;
-&lt;p&gt;Alex Kim&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;As a technical founder, I constantly debate whether to build infrastructure in-house or use managed services. The math is clear: managed services win 90% of the time when you factor in opportunity cost.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Our Startup Reduced AWS Costs by 60%</title>
-      <link>https://blog.itsdavidg.co/posts/demo-linkedin-why-our-startup-reduced-aws-costs-by-60/</link>
-      <pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/demo-linkedin-why-our-startup-reduced-aws-costs-by-60/</guid>
-      <description>&lt;h2 id=&#34;linkedin-insights-why-our-startup-reduced-aws-costs-by-60&#34;&gt;LinkedIn Insights: Why Our Startup Reduced AWS Costs by 60%&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Originally shared by Sarah Chen (CTO at TechStartup) on LinkedIn&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://linkedin.com/posts/sarahchen-aws-cost-optimization&#34;&gt;View original LinkedIn post →&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;the-challenge&#34;&gt;The Challenge&lt;/h3&gt;
-&lt;p&gt;Sarah Chen&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;After months of ballooning cloud costs, we implemented a comprehensive AWS optimization strategy. The results were dramatic: 60% cost reduction while improving performance. Key changes included right-sizing instances, implementing auto-scaling, and moving to spot instances for non-critical workloads.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Prospect-Intelligence on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/prospect-intelligence/</link><description>Recent content in Prospect-Intelligence on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 15:33:57 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/prospect-intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>DevOps Team Struggles with Security Compliance</title><link>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</link><pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/demo-linkedin-devops-team-struggles-with-security-compliance/</guid><description>&lt;h2 id="linkedin-insights-devops-team-struggles-with-security-compliance">LinkedIn Insights: DevOps Team Struggles with Security Compliance&lt;/h2>
+&lt;p>&lt;em>Originally shared by Mike Rodriguez (DevOps Engineer at GrowthCo) on LinkedIn&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://linkedin.com/posts/mikerodriguez-devops-security">View original LinkedIn post →&lt;/a>&lt;/p>
+&lt;h3 id="the-challenge">The Challenge&lt;/h3>
+&lt;p>Mike Rodriguez&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p>
+&lt;blockquote>
+&lt;p>Our DevOps team spent weeks trying to implement proper security monitoring. The challenge wasn&amp;rsquo;t technical - it was knowing where to start. We needed a framework that balanced security with development speed.&lt;/p></description></item><item><title>Startup Founder's Dilemma: Build vs Buy for Infrastructure</title><link>https://blog.itsdavidg.co/posts/demo-linkedin-startup-founders-dilemma-build-vs-buy-for-infrastructure/</link><pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/demo-linkedin-startup-founders-dilemma-build-vs-buy-for-infrastructure/</guid><description>&lt;h2 id="linkedin-insights-startup-founders-dilemma-build-vs-buy-for-infrastructure">LinkedIn Insights: Startup Founder&amp;rsquo;s Dilemma: Build vs Buy for Infrastructure&lt;/h2>
+&lt;p>&lt;em>Originally shared by Alex Kim (Founder at StartupXYZ) on LinkedIn&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://linkedin.com/posts/alexkim-startup-infrastructure">View original LinkedIn post →&lt;/a>&lt;/p>
+&lt;h3 id="the-challenge">The Challenge&lt;/h3>
+&lt;p>Alex Kim&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p>
+&lt;blockquote>
+&lt;p>As a technical founder, I constantly debate whether to build infrastructure in-house or use managed services. The math is clear: managed services win 90% of the time when you factor in opportunity cost.&lt;/p></description></item><item><title>Why Our Startup Reduced AWS Costs by 60%</title><link>https://blog.itsdavidg.co/posts/demo-linkedin-why-our-startup-reduced-aws-costs-by-60/</link><pubDate>Mon, 06 Apr 2026 15:33:57 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/demo-linkedin-why-our-startup-reduced-aws-costs-by-60/</guid><description>&lt;h2 id="linkedin-insights-why-our-startup-reduced-aws-costs-by-60">LinkedIn Insights: Why Our Startup Reduced AWS Costs by 60%&lt;/h2>
+&lt;p>&lt;em>Originally shared by Sarah Chen (CTO at TechStartup) on LinkedIn&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://linkedin.com/posts/sarahchen-aws-cost-optimization">View original LinkedIn post →&lt;/a>&lt;/p>
+&lt;h3 id="the-challenge">The Challenge&lt;/h3>
+&lt;p>Sarah Chen&amp;rsquo;s LinkedIn post resonated with many technology professionals because it addresses a common challenge:&lt;/p>
+&lt;blockquote>
+&lt;p>After months of ballooning cloud costs, we implemented a comprehensive AWS optimization strategy. The results were dramatic: 60% cost reduction while improving performance. Key changes included right-sizing instances, implementing auto-scaling, and moving to spot instances for non-critical workloads.&lt;/p></description></item></channel></rss>

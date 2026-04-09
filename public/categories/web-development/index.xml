@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Web Development on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/categories/web-development/</link>
-    <description>Recent content in Web Development on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Web Application Security in 2026: Protecting Against Modern Threats</title>
-      <link>https://blog.itsdavidg.co/posts/web_security/</link>
-      <pubDate>Sun, 01 Mar 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/web_security/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-expanding-attack-surface&#34;&gt;Introduction: The Expanding Attack Surface&lt;/h2&gt;
-&lt;p&gt;Web application security has never been more critical. According to Verizon&amp;rsquo;s 2025 Data Breach Investigations Report, web applications were the attack vector in 43% of breaches, representing a 15% increase from 2022. The average cost of a web application breach reached $4.88 million in 2025, according to IBM&amp;rsquo;s Cost of a Data Breach Report.&lt;/p&gt;
-&lt;p&gt;The threat landscape continues evolving. Attackers increasingly leverage AI to identify vulnerabilities at scale, exploit zero-day vulnerabilities faster than ever, and target supply chain dependencies. The rise of APIs and microservices has expanded the attack surface, while the shift to cloud-native architectures introduces new security considerations.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Web Performance Optimization in 2026: Speed as Competitive Advantage</title>
-      <link>https://blog.itsdavidg.co/posts/web_performance/</link>
-      <pubDate>Sat, 28 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/web_performance/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-business-case-for-speed&#34;&gt;Introduction: The Business Case for Speed&lt;/h2&gt;
-&lt;p&gt;Website performance has evolved from a technical consideration to a critical business metric. According to Google&amp;rsquo;s 2025 research, as page load time increases from 1 second to 3 seconds, bounce probability increases by 32%. At 5 seconds, that probability jumps to 90%. These statistics translate directly to lost revenue, missed conversions, and damaged brand perception.&lt;/p&gt;
-&lt;p&gt;The impact extends beyond user experience to search rankings. Google&amp;rsquo;s Core Web Vitals—incorporating loading speed, interactivity, and visual stability—have become confirmed ranking factors. Deloitte&amp;rsquo;s 2025 Digital Performance Study found that improving mobile site speed by just 0.1 seconds increased conversion rates by 8.4% for retail sites and 10.1% for travel sites.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Technical SEO Excellence in 2026: Advanced Strategies for Search Dominance</title>
-      <link>https://blog.itsdavidg.co/posts/technical_seo/</link>
-      <pubDate>Wed, 25 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/technical_seo/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-technical-foundation-of-search-success&#34;&gt;Introduction: The Technical Foundation of Search Success&lt;/h2&gt;
-&lt;p&gt;Technical SEO has evolved from a behind-the-scenes optimization to a critical competitive differentiator. As Google&amp;rsquo;s algorithms become increasingly sophisticated in understanding content quality and user experience, technical excellence provides the foundation upon which all other SEO efforts build.&lt;/p&gt;
-&lt;p&gt;According to BrightEdge&amp;rsquo;s 2025 Organic Search report, 53.3% of all website traffic comes from organic search, and technical issues are responsible for 35% of lost search visibility across enterprise websites. More significantly, Google&amp;rsquo;s Core Web Vitals—measuring loading performance, interactivity, and visual stability—have become confirmed ranking factors, making technical optimization a direct influence on search positions.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Web Development on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/web-development/</link><description>Recent content in Web Development on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/web-development/index.xml" rel="self" type="application/rss+xml"/><item><title>Web Application Security in 2026: Protecting Against Modern Threats</title><link>https://blog.itsdavidg.co/posts/web_security/</link><pubDate>Sun, 01 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/web_security/</guid><description>&lt;h2 id="introduction-the-expanding-attack-surface">Introduction: The Expanding Attack Surface&lt;/h2>
+&lt;p>Web application security has never been more critical. According to Verizon&amp;rsquo;s 2025 Data Breach Investigations Report, web applications were the attack vector in 43% of breaches, representing a 15% increase from 2022. The average cost of a web application breach reached $4.88 million in 2025, according to IBM&amp;rsquo;s Cost of a Data Breach Report.&lt;/p>
+&lt;p>The threat landscape continues evolving. Attackers increasingly leverage AI to identify vulnerabilities at scale, exploit zero-day vulnerabilities faster than ever, and target supply chain dependencies. The rise of APIs and microservices has expanded the attack surface, while the shift to cloud-native architectures introduces new security considerations.&lt;/p></description></item><item><title>Web Performance Optimization in 2026: Speed as Competitive Advantage</title><link>https://blog.itsdavidg.co/posts/web_performance/</link><pubDate>Sat, 28 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/web_performance/</guid><description>&lt;h2 id="introduction-the-business-case-for-speed">Introduction: The Business Case for Speed&lt;/h2>
+&lt;p>Website performance has evolved from a technical consideration to a critical business metric. According to Google&amp;rsquo;s 2025 research, as page load time increases from 1 second to 3 seconds, bounce probability increases by 32%. At 5 seconds, that probability jumps to 90%. These statistics translate directly to lost revenue, missed conversions, and damaged brand perception.&lt;/p>
+&lt;p>The impact extends beyond user experience to search rankings. Google&amp;rsquo;s Core Web Vitals—incorporating loading speed, interactivity, and visual stability—have become confirmed ranking factors. Deloitte&amp;rsquo;s 2025 Digital Performance Study found that improving mobile site speed by just 0.1 seconds increased conversion rates by 8.4% for retail sites and 10.1% for travel sites.&lt;/p></description></item><item><title>Technical SEO Excellence in 2026: Advanced Strategies for Search Dominance</title><link>https://blog.itsdavidg.co/posts/technical_seo/</link><pubDate>Wed, 25 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/technical_seo/</guid><description>&lt;h2 id="introduction-the-technical-foundation-of-search-success">Introduction: The Technical Foundation of Search Success&lt;/h2>
+&lt;p>Technical SEO has evolved from a behind-the-scenes optimization to a critical competitive differentiator. As Google&amp;rsquo;s algorithms become increasingly sophisticated in understanding content quality and user experience, technical excellence provides the foundation upon which all other SEO efforts build.&lt;/p>
+&lt;p>According to BrightEdge&amp;rsquo;s 2025 Organic Search report, 53.3% of all website traffic comes from organic search, and technical issues are responsible for 35% of lost search visibility across enterprise websites. More significantly, Google&amp;rsquo;s Core Web Vitals—measuring loading performance, interactivity, and visual stability—have become confirmed ranking factors, making technical optimization a direct influence on search positions.&lt;/p></description></item></channel></rss>

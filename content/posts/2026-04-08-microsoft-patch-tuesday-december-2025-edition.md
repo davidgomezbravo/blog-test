@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Patch Tuesday, December 2025 Edition"
-date: 2026-04-08T12:00:04
+date: 2026-04-08T20:00:07
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]

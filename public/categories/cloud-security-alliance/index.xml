@@ -1,255 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/categories/cloud-security-alliance/</link>
-    <description>Recent content in Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 12:00:16 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/categories/cloud-security-alliance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AWS Launches European Sovereign Cloud: What You Need to Know and What You Need to Do</title>
-      <link>https://blog.itsdavidg.co/posts/aws-launches-european-sovereign-cloud-what-you-need-to-know-/</link>
-      <pubDate>Wed, 18 Mar 2026 12:00:16 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/aws-launches-european-sovereign-cloud-what-you-need-to-know-/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AWS Launches European Sovereign Cloud: What You Need to Know and What You Need to Do. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zero Trust in the Cloud: Designing Security Assurance at the Control Plane</title>
-      <link>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</link>
-      <pubDate>Wed, 18 Mar 2026 12:00:12 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust in the Cloud: Designing Security Assurance at the Control Plane. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What if AI Knew When to Say “I Don’t Know”?</title>
-      <link>https://blog.itsdavidg.co/posts/what-if-ai-knew-when-to-say-i-dont-know/</link>
-      <pubDate>Wed, 18 Mar 2026 12:00:08 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/what-if-ai-knew-when-to-say-i-dont-know/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled What if AI Knew When to Say “I Don’t Know”?. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design</title>
-      <link>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</link>
-      <pubDate>Wed, 18 Mar 2026 12:00:05 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds</title>
-      <link>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:20 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled 79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Leveling Up Autonomy in Agentic AI</title>
-      <link>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:18 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Leveling Up Autonomy in Agentic AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bridging the Gap Between Cloud Security Controls and Adversary Behaviors: A CSA–MITRE CTID Collaboration</title>
-      <link>https://blog.itsdavidg.co/posts/bridging-the-gap-between-cloud-security-controls-and-adversa/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:11 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bridging-the-gap-between-cloud-security-controls-and-adversa/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Bridging the Gap Between Cloud Security Controls and Adversary Behaviors: A CSA–MITRE CTID Collaboration. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Non-Human Identity Governance: Why IGA Falls Short</title>
-      <link>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:08 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Non-Human Identity Governance: Why IGA Falls Short. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Great Divide: How AI Is Splitting the Cybersecurity Landscape</title>
-      <link>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</link>
-      <pubDate>Wed, 18 Mar 2026 08:00:06 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Great Divide: How AI Is Splitting the Cybersecurity Landscape. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Agentic Trust Framework: Zero Trust Governance for AI Agents</title>
-      <link>https://blog.itsdavidg.co/posts/the-agentic-trust-framework-zero-trust-governance-for-ai-age/</link>
-      <pubDate>Wed, 18 Mar 2026 04:00:18 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/the-agentic-trust-framework-zero-trust-governance-for-ai-age/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Agentic Trust Framework: Zero Trust Governance for AI Agents. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How CSA STAR Helps Cloud-First Organizations Tackle Modern Identity Security Risks</title>
-      <link>https://blog.itsdavidg.co/posts/how-csa-star-helps-cloud-first-organizations-tackle-modern-i/</link>
-      <pubDate>Wed, 18 Mar 2026 04:00:14 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/how-csa-star-helps-cloud-first-organizations-tackle-modern-i/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled How CSA STAR Helps Cloud-First Organizations Tackle Modern Identity Security Risks. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Logic-Layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems</title>
-      <link>https://blog.itsdavidg.co/posts/logic-layer-prompt-control-injection-lpci-a-novel-security-v/</link>
-      <pubDate>Wed, 18 Mar 2026 04:00:11 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/logic-layer-prompt-control-injection-lpci-a-novel-security-v/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Logic-Layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>New Survey from Cloud Security Alliance, Strata Identity Finds That Enterprises Are in a “Time-to-Trust” Phase, As They Build Foundations for AI Autonomy</title>
-      <link>https://blog.itsdavidg.co/posts/new-survey-from-cloud-security-alliance-strata-identity-find/</link>
-      <pubDate>Wed, 18 Mar 2026 04:00:07 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/new-survey-from-cloud-security-alliance-strata-identity-find/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled New Survey from Cloud Security Alliance, Strata Identity Finds That Enterprises Are in a “Time-to-Trust” Phase, As They Build Foundations for AI Autonomy. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Applying MAESTRO to Real-World Agentic AI Threat Models: From Framework to CI/CD Pipeline</title>
-      <link>https://blog.itsdavidg.co/posts/applying-maestro-to-real-world-agentic-ai-threat-models-from/</link>
-      <pubDate>Wed, 18 Mar 2026 04:00:05 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/applying-maestro-to-real-world-agentic-ai-threat-models-from/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Applying MAESTRO to Real-World Agentic AI Threat Models: From Framework to CI/CD Pipeline. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why Zero Trust Needs to Start at the Session Layer</title>
-      <link>https://blog.itsdavidg.co/posts/why-zero-trust-needs-to-start-at-the-session-layer/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:22 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/why-zero-trust-needs-to-start-at-the-session-layer/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Why Zero Trust Needs to Start at the Session Layer. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Token Sprawl in the Age of AI</title>
-      <link>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:19 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Token Sprawl in the Age of AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Breaking Down the SOC 2 Trust Services Criteria: Privacy</title>
-      <link>https://blog.itsdavidg.co/posts/breaking-down-the-soc-2-trust-services-criteria-privacy/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/breaking-down-the-soc-2-trust-services-criteria-privacy/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Breaking Down the SOC 2 Trust Services Criteria: Privacy. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI Security: IAM Delivered at Agent Velocity</title>
-      <link>https://blog.itsdavidg.co/posts/ai-security-iam-delivered-at-agent-velocity/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:09 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ai-security-iam-delivered-at-agent-velocity/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: IAM Delivered at Agent Velocity. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenClaw Threat Model: MAESTRO Framework Analysis</title>
-      <link>https://blog.itsdavidg.co/posts/openclaw-threat-model-maestro-framework-analysis/</link>
-      <pubDate>Wed, 18 Mar 2026 00:00:05 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/openclaw-threat-model-maestro-framework-analysis/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled OpenClaw Threat Model: MAESTRO Framework Analysis. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CCM v4.1 Transition Timeline</title>
-      <link>https://blog.itsdavidg.co/posts/ccm-v41-transition-timeline/</link>
-      <pubDate>Tue, 17 Mar 2026 20:00:16 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ccm-v41-transition-timeline/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled CCM v4.1 Transition Timeline. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly</title>
-      <link>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</link>
-      <pubDate>Mon, 16 Mar 2026 12:00:07 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RBI’s .bank.in Mandate: A New Trust Anchor for Digital Banking — and Why It’s Only the Beginning</title>
-      <link>https://blog.itsdavidg.co/posts/rbis-bankin-mandate-a-new-trust-anchor-for-digital-banking-a/</link>
-      <pubDate>Sun, 15 Mar 2026 12:00:08 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/rbis-bankin-mandate-a-new-trust-anchor-for-digital-banking-a/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled RBI’s .bank.in Mandate: A New Trust Anchor for Digital Banking — and Why It’s Only the Beginning. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Visibility Gap in Autonomous AI Agents</title>
-      <link>https://blog.itsdavidg.co/posts/the-visibility-gap-in-autonomous-ai-agents/</link>
-      <pubDate>Sun, 15 Mar 2026 08:00:06 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/the-visibility-gap-in-autonomous-ai-agents/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Visibility Gap in Autonomous AI Agents. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI Security: When Authorization Outlives Intent</title>
-      <link>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</link>
-      <pubDate>Thu, 12 Mar 2026 16:00:14 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: When Authorization Outlives Intent. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agentic AI and the New Reality of Financial Security</title>
-      <link>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</link>
-      <pubDate>Tue, 10 Mar 2026 20:00:13 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Agentic AI and the New Reality of Financial Security. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Core Collapse</title>
-      <link>https://blog.itsdavidg.co/posts/core-collapse/</link>
-      <pubDate>Mon, 09 Mar 2026 13:11:54 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/core-collapse/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Core Collapse. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Zero Trust for Agentic Pipelines That Touch Cloud Production</title>
-      <link>https://blog.itsdavidg.co/posts/zero-trust-for-agentic-pipelines-that-touch-cloud-production/</link>
-      <pubDate>Mon, 09 Mar 2026 12:00:05 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/zero-trust-for-agentic-pipelines-that-touch-cloud-production/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust for Agentic Pipelines That Touch Cloud Production. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;Cloud Security Alliance&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/cloud-security-alliance/</link><description>Recent content in Cloud-Security-Alliance on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 12:00:16 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/cloud-security-alliance/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS Launches European Sovereign Cloud: What You Need to Know and What You Need to Do</title><link>https://blog.itsdavidg.co/posts/aws-launches-european-sovereign-cloud-what-you-need-to-know-/</link><pubDate>Wed, 18 Mar 2026 12:00:16 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/aws-launches-european-sovereign-cloud-what-you-need-to-know-/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AWS Launches European Sovereign Cloud: What You Need to Know and What You Need to Do. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Zero Trust in the Cloud: Designing Security Assurance at the Control Plane</title><link>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</link><pubDate>Wed, 18 Mar 2026 12:00:12 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/zero-trust-in-the-cloud-designing-security-assurance-at-the-/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust in the Cloud: Designing Security Assurance at the Control Plane. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>What if AI Knew When to Say “I Don’t Know”?</title><link>https://blog.itsdavidg.co/posts/what-if-ai-knew-when-to-say-i-dont-know/</link><pubDate>Wed, 18 Mar 2026 12:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/what-if-ai-knew-when-to-say-i-dont-know/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled What if AI Knew When to Say “I Don’t Know”?. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design</title><link>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</link><pubDate>Wed, 18 Mar 2026 12:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/beyond-badge-selling-why-compliance-automation-needs-trust-b/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Beyond Badge-Selling: Why Compliance Automation Needs Trust by Design. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds</title><link>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</link><pubDate>Wed, 18 Mar 2026 08:00:20 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/79-of-it-pros-feel-ill-equipped-to-prevent-attacks-via-non-h/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled 79% of IT Pros Feel Ill-Equipped to Prevent Attacks Via Non-Human Identities, Cloud Security Alliance and Oasis Security Survey Finds. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Leveling Up Autonomy in Agentic AI</title><link>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</link><pubDate>Wed, 18 Mar 2026 08:00:18 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/leveling-up-autonomy-in-agentic-ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Leveling Up Autonomy in Agentic AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Bridging the Gap Between Cloud Security Controls and Adversary Behaviors: A CSA–MITRE CTID Collaboration</title><link>https://blog.itsdavidg.co/posts/bridging-the-gap-between-cloud-security-controls-and-adversa/</link><pubDate>Wed, 18 Mar 2026 08:00:11 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bridging-the-gap-between-cloud-security-controls-and-adversa/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Bridging the Gap Between Cloud Security Controls and Adversary Behaviors: A CSA–MITRE CTID Collaboration. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Non-Human Identity Governance: Why IGA Falls Short</title><link>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</link><pubDate>Wed, 18 Mar 2026 08:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/non-human-identity-governance-why-iga-falls-short/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Non-Human Identity Governance: Why IGA Falls Short. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>The Great Divide: How AI Is Splitting the Cybersecurity Landscape</title><link>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</link><pubDate>Wed, 18 Mar 2026 08:00:06 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/the-great-divide-how-ai-is-splitting-the-cybersecurity-lands/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Great Divide: How AI Is Splitting the Cybersecurity Landscape. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>The Agentic Trust Framework: Zero Trust Governance for AI Agents</title><link>https://blog.itsdavidg.co/posts/the-agentic-trust-framework-zero-trust-governance-for-ai-age/</link><pubDate>Wed, 18 Mar 2026 04:00:18 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/the-agentic-trust-framework-zero-trust-governance-for-ai-age/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Agentic Trust Framework: Zero Trust Governance for AI Agents. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>How CSA STAR Helps Cloud-First Organizations Tackle Modern Identity Security Risks</title><link>https://blog.itsdavidg.co/posts/how-csa-star-helps-cloud-first-organizations-tackle-modern-i/</link><pubDate>Wed, 18 Mar 2026 04:00:14 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/how-csa-star-helps-cloud-first-organizations-tackle-modern-i/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled How CSA STAR Helps Cloud-First Organizations Tackle Modern Identity Security Risks. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Logic-Layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems</title><link>https://blog.itsdavidg.co/posts/logic-layer-prompt-control-injection-lpci-a-novel-security-v/</link><pubDate>Wed, 18 Mar 2026 04:00:11 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/logic-layer-prompt-control-injection-lpci-a-novel-security-v/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Logic-Layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>New Survey from Cloud Security Alliance, Strata Identity Finds That Enterprises Are in a “Time-to-Trust” Phase, As They Build Foundations for AI Autonomy</title><link>https://blog.itsdavidg.co/posts/new-survey-from-cloud-security-alliance-strata-identity-find/</link><pubDate>Wed, 18 Mar 2026 04:00:07 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/new-survey-from-cloud-security-alliance-strata-identity-find/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled New Survey from Cloud Security Alliance, Strata Identity Finds That Enterprises Are in a “Time-to-Trust” Phase, As They Build Foundations for AI Autonomy. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Applying MAESTRO to Real-World Agentic AI Threat Models: From Framework to CI/CD Pipeline</title><link>https://blog.itsdavidg.co/posts/applying-maestro-to-real-world-agentic-ai-threat-models-from/</link><pubDate>Wed, 18 Mar 2026 04:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/applying-maestro-to-real-world-agentic-ai-threat-models-from/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Applying MAESTRO to Real-World Agentic AI Threat Models: From Framework to CI/CD Pipeline. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Why Zero Trust Needs to Start at the Session Layer</title><link>https://blog.itsdavidg.co/posts/why-zero-trust-needs-to-start-at-the-session-layer/</link><pubDate>Wed, 18 Mar 2026 00:00:22 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/why-zero-trust-needs-to-start-at-the-session-layer/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Why Zero Trust Needs to Start at the Session Layer. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Token Sprawl in the Age of AI</title><link>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</link><pubDate>Wed, 18 Mar 2026 00:00:19 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/token-sprawl-in-the-age-of-ai/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Token Sprawl in the Age of AI. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Breaking Down the SOC 2 Trust Services Criteria: Privacy</title><link>https://blog.itsdavidg.co/posts/breaking-down-the-soc-2-trust-services-criteria-privacy/</link><pubDate>Wed, 18 Mar 2026 00:00:13 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/breaking-down-the-soc-2-trust-services-criteria-privacy/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Breaking Down the SOC 2 Trust Services Criteria: Privacy. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AI Security: IAM Delivered at Agent Velocity</title><link>https://blog.itsdavidg.co/posts/ai-security-iam-delivered-at-agent-velocity/</link><pubDate>Wed, 18 Mar 2026 00:00:09 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/ai-security-iam-delivered-at-agent-velocity/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: IAM Delivered at Agent Velocity. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>OpenClaw Threat Model: MAESTRO Framework Analysis</title><link>https://blog.itsdavidg.co/posts/openclaw-threat-model-maestro-framework-analysis/</link><pubDate>Wed, 18 Mar 2026 00:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/openclaw-threat-model-maestro-framework-analysis/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled OpenClaw Threat Model: MAESTRO Framework Analysis. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>CCM v4.1 Transition Timeline</title><link>https://blog.itsdavidg.co/posts/ccm-v41-transition-timeline/</link><pubDate>Tue, 17 Mar 2026 20:00:16 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/ccm-v41-transition-timeline/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled CCM v4.1 Transition Timeline. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly</title><link>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</link><pubDate>Mon, 16 Mar 2026 12:00:07 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/react2shell-reflections-cloud-insights-finance-sector-impact/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled React2Shell Reflections: Cloud Insights, Finance Sector Impacts, and How Threat Actors Moved So Quickly. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>RBI’s .bank.in Mandate: A New Trust Anchor for Digital Banking — and Why It’s Only the Beginning</title><link>https://blog.itsdavidg.co/posts/rbis-bankin-mandate-a-new-trust-anchor-for-digital-banking-a/</link><pubDate>Sun, 15 Mar 2026 12:00:08 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/rbis-bankin-mandate-a-new-trust-anchor-for-digital-banking-a/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled RBI’s .bank.in Mandate: A New Trust Anchor for Digital Banking — and Why It’s Only the Beginning. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>The Visibility Gap in Autonomous AI Agents</title><link>https://blog.itsdavidg.co/posts/the-visibility-gap-in-autonomous-ai-agents/</link><pubDate>Sun, 15 Mar 2026 08:00:06 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/the-visibility-gap-in-autonomous-ai-agents/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled The Visibility Gap in Autonomous AI Agents. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>AI Security: When Authorization Outlives Intent</title><link>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</link><pubDate>Thu, 12 Mar 2026 16:00:14 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/ai-security-when-authorization-outlives-intent/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled AI Security: When Authorization Outlives Intent. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Agentic AI and the New Reality of Financial Security</title><link>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</link><pubDate>Tue, 10 Mar 2026 20:00:13 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/agentic-ai-and-the-new-reality-of-financial-security/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Agentic AI and the New Reality of Financial Security. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Core Collapse</title><link>https://blog.itsdavidg.co/posts/core-collapse/</link><pubDate>Mon, 09 Mar 2026 13:11:54 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/core-collapse/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Core Collapse. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item><item><title>Zero Trust for Agentic Pipelines That Touch Cloud Production</title><link>https://blog.itsdavidg.co/posts/zero-trust-for-agentic-pipelines-that-touch-cloud-production/</link><pubDate>Mon, 09 Mar 2026 12:00:05 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/zero-trust-for-agentic-pipelines-that-touch-cloud-production/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>In a significant announcement that has captured the attention of technology professionals worldwide, Cloud Security Alliance has unveiled Zero Trust for Agentic Pipelines That Touch Cloud Production. This development represents a major milestone in the ongoing evolution of cloud computing and enterprise technology solutions.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>Cloud Security Alliance&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item></channel></rss>

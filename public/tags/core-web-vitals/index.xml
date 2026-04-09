@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Core Web Vitals on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/core-web-vitals/</link>
-    <description>Recent content in Core Web Vitals on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/core-web-vitals/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Web Performance Optimization in 2026: Speed as Competitive Advantage</title>
-      <link>https://blog.itsdavidg.co/posts/web_performance/</link>
-      <pubDate>Sat, 28 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/web_performance/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-business-case-for-speed&#34;&gt;Introduction: The Business Case for Speed&lt;/h2&gt;
-&lt;p&gt;Website performance has evolved from a technical consideration to a critical business metric. According to Google&amp;rsquo;s 2025 research, as page load time increases from 1 second to 3 seconds, bounce probability increases by 32%. At 5 seconds, that probability jumps to 90%. These statistics translate directly to lost revenue, missed conversions, and damaged brand perception.&lt;/p&gt;
-&lt;p&gt;The impact extends beyond user experience to search rankings. Google&amp;rsquo;s Core Web Vitals—incorporating loading speed, interactivity, and visual stability—have become confirmed ranking factors. Deloitte&amp;rsquo;s 2025 Digital Performance Study found that improving mobile site speed by just 0.1 seconds increased conversion rates by 8.4% for retail sites and 10.1% for travel sites.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Core Web Vitals on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/core-web-vitals/</link><description>Recent content in Core Web Vitals on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Sat, 28 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/core-web-vitals/index.xml" rel="self" type="application/rss+xml"/><item><title>Web Performance Optimization in 2026: Speed as Competitive Advantage</title><link>https://blog.itsdavidg.co/posts/web_performance/</link><pubDate>Sat, 28 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/web_performance/</guid><description>&lt;h2 id="introduction-the-business-case-for-speed">Introduction: The Business Case for Speed&lt;/h2>
+&lt;p>Website performance has evolved from a technical consideration to a critical business metric. According to Google&amp;rsquo;s 2025 research, as page load time increases from 1 second to 3 seconds, bounce probability increases by 32%. At 5 seconds, that probability jumps to 90%. These statistics translate directly to lost revenue, missed conversions, and damaged brand perception.&lt;/p>
+&lt;p>The impact extends beyond user experience to search rankings. Google&amp;rsquo;s Core Web Vitals—incorporating loading speed, interactivity, and visual stability—have become confirmed ranking factors. Deloitte&amp;rsquo;s 2025 Digital Performance Study found that improving mobile site speed by just 0.1 seconds increased conversion rates by 8.4% for retail sites and 10.1% for travel sites.&lt;/p></description></item></channel></rss>

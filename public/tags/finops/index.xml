@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>FinOps on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/finops/</link>
-    <description>Recent content in FinOps on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/finops/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cloud Cost Optimization in 2026: Maximizing AWS, Azure, and GCP ROI</title>
-      <link>https://blog.itsdavidg.co/posts/cloud_cost_optimization/</link>
-      <pubDate>Wed, 25 Mar 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/cloud_cost_optimization/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-cost-management-imperative&#34;&gt;Introduction: The Cost Management Imperative&lt;/h2&gt;
-&lt;p&gt;Cloud computing has transformed IT infrastructure, but cost management remains a significant challenge. According to Flexera&amp;rsquo;s 2025 State of the Cloud Report, organizations waste an average of 32% of their cloud spend—representing billions of dollars in unnecessary expenditure. As cloud adoption matures, cost optimization has evolved from a tactical exercise to a strategic discipline.&lt;/p&gt;
-&lt;p&gt;FinOps—the practice of bringing financial accountability to cloud spending—has emerged as a critical organizational capability. The FinOps Foundation&amp;rsquo;s 2025 report indicates that mature FinOps practices reduce cloud costs by 20-30% while improving engineering productivity and business agility.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>FinOps on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/finops/</link><description>Recent content in FinOps on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Wed, 25 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/finops/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Cost Optimization in 2026: Maximizing AWS, Azure, and GCP ROI</title><link>https://blog.itsdavidg.co/posts/cloud_cost_optimization/</link><pubDate>Wed, 25 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/cloud_cost_optimization/</guid><description>&lt;h2 id="introduction-the-cost-management-imperative">Introduction: The Cost Management Imperative&lt;/h2>
+&lt;p>Cloud computing has transformed IT infrastructure, but cost management remains a significant challenge. According to Flexera&amp;rsquo;s 2025 State of the Cloud Report, organizations waste an average of 32% of their cloud spend—representing billions of dollars in unnecessary expenditure. As cloud adoption matures, cost optimization has evolved from a tactical exercise to a strategic discipline.&lt;/p>
+&lt;p>FinOps—the practice of bringing financial accountability to cloud spending—has emerged as a critical organizational capability. The FinOps Foundation&amp;rsquo;s 2025 report indicates that mature FinOps practices reduce cloud costs by 20-30% while improving engineering productivity and business agility.&lt;/p></description></item></channel></rss>

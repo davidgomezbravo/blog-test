@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Crawlability on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/crawlability/</link>
-    <description>Recent content in Crawlability on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/crawlability/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Technical SEO Excellence in 2026: Advanced Strategies for Search Dominance</title>
-      <link>https://blog.itsdavidg.co/posts/technical_seo/</link>
-      <pubDate>Wed, 25 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/technical_seo/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-technical-foundation-of-search-success&#34;&gt;Introduction: The Technical Foundation of Search Success&lt;/h2&gt;
-&lt;p&gt;Technical SEO has evolved from a behind-the-scenes optimization to a critical competitive differentiator. As Google&amp;rsquo;s algorithms become increasingly sophisticated in understanding content quality and user experience, technical excellence provides the foundation upon which all other SEO efforts build.&lt;/p&gt;
-&lt;p&gt;According to BrightEdge&amp;rsquo;s 2025 Organic Search report, 53.3% of all website traffic comes from organic search, and technical issues are responsible for 35% of lost search visibility across enterprise websites. More significantly, Google&amp;rsquo;s Core Web Vitals—measuring loading performance, interactivity, and visual stability—have become confirmed ranking factors, making technical optimization a direct influence on search positions.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Crawlability on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/crawlability/</link><description>Recent content in Crawlability on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Wed, 25 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/crawlability/index.xml" rel="self" type="application/rss+xml"/><item><title>Technical SEO Excellence in 2026: Advanced Strategies for Search Dominance</title><link>https://blog.itsdavidg.co/posts/technical_seo/</link><pubDate>Wed, 25 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/technical_seo/</guid><description>&lt;h2 id="introduction-the-technical-foundation-of-search-success">Introduction: The Technical Foundation of Search Success&lt;/h2>
+&lt;p>Technical SEO has evolved from a behind-the-scenes optimization to a critical competitive differentiator. As Google&amp;rsquo;s algorithms become increasingly sophisticated in understanding content quality and user experience, technical excellence provides the foundation upon which all other SEO efforts build.&lt;/p>
+&lt;p>According to BrightEdge&amp;rsquo;s 2025 Organic Search report, 53.3% of all website traffic comes from organic search, and technical issues are responsible for 35% of lost search visibility across enterprise websites. More significantly, Google&amp;rsquo;s Core Web Vitals—measuring loading performance, interactivity, and visual stability—have become confirmed ranking factors, making technical optimization a direct influence on search positions.&lt;/p></description></item></channel></rss>

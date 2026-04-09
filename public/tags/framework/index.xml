@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Framework on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/framework/</link>
-    <description>Recent content in Framework on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Feb 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/framework/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Complete Guide to Cybersecurity Risk Assessments in 2026: Frameworks, Methodologies, and Best Practices</title>
-      <link>https://blog.itsdavidg.co/posts/risk_assessment/</link>
-      <pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/risk_assessment/</guid>
-      <description>&lt;h2 id=&#34;introduction-why-risk-assessment-is-the-foundation-of-security&#34;&gt;Introduction: Why Risk Assessment is the Foundation of Security&lt;/h2&gt;
-&lt;p&gt;In an era where cyber threats evolve faster than defenses, understanding your organization&amp;rsquo;s risk posture has become mission-critical. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, organizations that conduct regular risk assessments experience breach costs that are $2.2 million lower on average than those that do not. More significantly, these organizations detect breaches 74 days faster—a crucial advantage when every hour of attacker access compounds damage.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Framework on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/framework/</link><description>Recent content in Framework on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/framework/index.xml" rel="self" type="application/rss+xml"/><item><title>The Complete Guide to Cybersecurity Risk Assessments in 2026: Frameworks, Methodologies, and Best Practices</title><link>https://blog.itsdavidg.co/posts/risk_assessment/</link><pubDate>Sun, 01 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/risk_assessment/</guid><description>&lt;h2 id="introduction-why-risk-assessment-is-the-foundation-of-security">Introduction: Why Risk Assessment is the Foundation of Security&lt;/h2>
+&lt;p>In an era where cyber threats evolve faster than defenses, understanding your organization&amp;rsquo;s risk posture has become mission-critical. According to IBM&amp;rsquo;s 2025 Cost of a Data Breach Report, organizations that conduct regular risk assessments experience breach costs that are $2.2 million lower on average than those that do not. More significantly, these organizations detect breaches 74 days faster—a crucial advantage when every hour of attacker access compounds damage.&lt;/p></description></item></channel></rss>

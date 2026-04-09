@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Performance on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/performance/</link>
-    <description>Recent content in Performance on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 14:22:36 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/performance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Claude Opus 4.6 now available in Amazon Bedrock</title>
-      <link>https://blog.itsdavidg.co/posts/claude-opus-46-now-available-in-amazon-bedrock/</link>
-      <pubDate>Mon, 06 Apr 2026 14:22:36 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/claude-opus-46-now-available-in-amazon-bedrock/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;The technology landscape continues to evolve at breakneck speed, with AWS News leading the charge through their recent announcement of Claude Opus 4.6 now available in Amazon Bedrock. This development promises to reshape how organizations approach cloud infrastructure and digital transformation. Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;
-&lt;p&gt;This significant development was originally reported by &lt;strong&gt;AWS News&lt;/strong&gt;, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Performance on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/performance/</link><description>Recent content in Performance on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 14:22:36 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/performance/index.xml" rel="self" type="application/rss+xml"/><item><title>Claude Opus 4.6 now available in Amazon Bedrock</title><link>https://blog.itsdavidg.co/posts/claude-opus-46-now-available-in-amazon-bedrock/</link><pubDate>Mon, 06 Apr 2026 14:22:36 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/claude-opus-46-now-available-in-amazon-bedrock/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>The technology landscape continues to evolve at breakneck speed, with AWS News leading the charge through their recent announcement of Claude Opus 4.6 now available in Amazon Bedrock. This development promises to reshape how organizations approach cloud infrastructure and digital transformation. Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p>
+&lt;p>This significant development was originally reported by &lt;strong>AWS News&lt;/strong>, highlighting the ongoing evolution in the technology landscape. As organizations continue to navigate digital transformation, understanding these advancements becomes crucial for staying competitive.&lt;/p></description></item></channel></rss>

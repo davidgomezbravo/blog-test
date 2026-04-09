@@ -1,38 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI Implementation on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/categories/ai-implementation/</link>
-    <description>Recent content in AI Implementation on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/categories/ai-implementation/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ChatGPT Enterprise Implementation in 2026: Maximizing Business Value While Managing Risk</title>
-      <link>https://blog.itsdavidg.co/posts/chatgpt_enterprise/</link>
-      <pubDate>Mon, 02 Mar 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/chatgpt_enterprise/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-generative-ai-transformation-has-arrived&#34;&gt;Introduction: The Generative AI Transformation Has Arrived&lt;/h2&gt;
-&lt;p&gt;Enterprise adoption of generative AI has accelerated at a pace unprecedented in technology history. According to McKinsey&amp;rsquo;s 2025 State of AI Report, 72% of organizations have deployed generative AI in at least one business function, up from just 33% in 2023. More significantly, 42% report that generative AI has reduced costs, while 59% have measured revenue increases directly attributable to AI implementation.&lt;/p&gt;
-&lt;p&gt;ChatGPT Enterprise, launched in late 2023 and continuously enhanced through 2025, has emerged as a leading platform for business generative AI deployment. With features including enterprise-grade security, admin controls, and advanced data analysis capabilities, the platform has been adopted by over 80% of Fortune 500 companies according to OpenAI&amp;rsquo;s 2026 business update.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title>
-      <link>https://blog.itsdavidg.co/posts/mlops/</link>
-      <pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/mlops/</guid>
-      <description>&lt;h2 id=&#34;introduction-bridging-the-gap-between-ml-research-and-production&#34;&gt;Introduction: Bridging the Gap Between ML Research and Production&lt;/h2&gt;
-&lt;p&gt;The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p&gt;
-&lt;p&gt;Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI-Powered Business Automation in 2026: From Robotic Process Automation to Intelligent Workflows</title>
-      <link>https://blog.itsdavidg.co/posts/ai_automation/</link>
-      <pubDate>Tue, 10 Feb 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/ai_automation/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-new-era-of-intelligent-automation&#34;&gt;Introduction: The New Era of Intelligent Automation&lt;/h2&gt;
-&lt;p&gt;The automation landscape has undergone a revolutionary transformation. What began as simple rule-based robotic process automation (RPA) has evolved into sophisticated AI-powered intelligent automation capable of understanding context, making decisions, and handling exceptions autonomously. According to Gartner&amp;rsquo;s 2025 Strategic Technology Trends, 80% of organizations have adopted intelligent automation technologies, with 45% now using AI-augmented automation tools that combine RPA, machine learning, and natural language processing.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>AI Implementation on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/ai-implementation/</link><description>Recent content in AI Implementation on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/ai-implementation/index.xml" rel="self" type="application/rss+xml"/><item><title>ChatGPT Enterprise Implementation in 2026: Maximizing Business Value While Managing Risk</title><link>https://blog.itsdavidg.co/posts/chatgpt_enterprise/</link><pubDate>Mon, 02 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/chatgpt_enterprise/</guid><description>&lt;h2 id="introduction-the-generative-ai-transformation-has-arrived">Introduction: The Generative AI Transformation Has Arrived&lt;/h2>
+&lt;p>Enterprise adoption of generative AI has accelerated at a pace unprecedented in technology history. According to McKinsey&amp;rsquo;s 2025 State of AI Report, 72% of organizations have deployed generative AI in at least one business function, up from just 33% in 2023. More significantly, 42% report that generative AI has reduced costs, while 59% have measured revenue increases directly attributable to AI implementation.&lt;/p>
+&lt;p>ChatGPT Enterprise, launched in late 2023 and continuously enhanced through 2025, has emerged as a leading platform for business generative AI deployment. With features including enterprise-grade security, admin controls, and advanced data analysis capabilities, the platform has been adopted by over 80% of Fortune 500 companies according to OpenAI&amp;rsquo;s 2026 business update.&lt;/p></description></item><item><title>Machine Learning Operations (MLOps) in 2026: Building Production-Ready AI Systems at Scale</title><link>https://blog.itsdavidg.co/posts/mlops/</link><pubDate>Sun, 15 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/mlops/</guid><description>&lt;h2 id="introduction-bridging-the-gap-between-ml-research-and-production">Introduction: Bridging the Gap Between ML Research and Production&lt;/h2>
+&lt;p>The machine learning landscape has reached an inflection point. According to Gartner&amp;rsquo;s 2025 Hype Cycle for AI, while 85% of organizations have initiated ML projects, only 21% have successfully deployed models to production at scale. The gap between experimental success and operational deployment—often called the &amp;ldquo;ML production gap&amp;rdquo;—represents one of the most significant challenges facing AI-driven organizations.&lt;/p>
+&lt;p>Machine Learning Operations (MLOps) has emerged as the discipline addressing this challenge. Drawing from DevOps principles while addressing ML-specific concerns like data versioning, model drift, and experiment tracking, MLOps provides the practices, tools, and cultural foundations for reliable ML systems in production.&lt;/p></description></item><item><title>AI-Powered Business Automation in 2026: From Robotic Process Automation to Intelligent Workflows</title><link>https://blog.itsdavidg.co/posts/ai_automation/</link><pubDate>Tue, 10 Feb 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/ai_automation/</guid><description>&lt;h2 id="introduction-the-new-era-of-intelligent-automation">Introduction: The New Era of Intelligent Automation&lt;/h2>
+&lt;p>The automation landscape has undergone a revolutionary transformation. What began as simple rule-based robotic process automation (RPA) has evolved into sophisticated AI-powered intelligent automation capable of understanding context, making decisions, and handling exceptions autonomously. According to Gartner&amp;rsquo;s 2025 Strategic Technology Trends, 80% of organizations have adopted intelligent automation technologies, with 45% now using AI-augmented automation tools that combine RPA, machine learning, and natural language processing.&lt;/p></description></item></channel></rss>

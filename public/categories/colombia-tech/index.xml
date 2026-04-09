@@ -1,70 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Colombia-Tech on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/categories/colombia-tech/</link>
-    <description>Recent content in Colombia-Tech on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:44:37 +0000</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/categories/colombia-tech/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automatización Kubernetes para equipos DevOps en Latam: Perspectiva desde el Mercado Colombiano</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-kubernetes-automation/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-kubernetes-automation/</guid>
-      <description>&lt;h2 id=&#34;basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona&#34;&gt;Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;
-&lt;h2 id=&#34;el-problema-real-en-colombia&#34;&gt;El Problema Real en Colombia&lt;/h2&gt;
-&lt;p&gt;Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cómo Reducir Costos AWS: Guía para CTOs de Empresas Colombianas</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-aws-cost-optimization/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-aws-cost-optimization/</guid>
-      <description>&lt;h2 id=&#34;después-de-analizar-empresas-como-techfin-colombia-descubrí-patrones-comunes-que-pueden-ahorrar-hasta-32-en-costos-cloud&#34;&gt;Después de analizar empresas como TechFin Colombia, descubrí patrones comunes que pueden ahorrar hasta 32% en costos cloud&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 ctos en Colombia, incluyendo empresas como TechFin Colombia. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Estrategias de Escalado: Lo que Funciona para Startups en Colombia</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-scaling-strategies/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-scaling-strategies/</guid>
-      <description>&lt;h2 id=&#34;trabajando-con-fundadores-locales-identifiqué-4-estrategias-que-separan-las-startups-que-escalan-de-las-que-se-estancan&#34;&gt;Trabajando con fundadores locales, identifiqué 4 estrategias que separan las startups que escalan de las que se estancan&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 founders en Colombia, incluyendo empresas como Startup SaaS. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Optimización de pipelines CI/CD: Casos de éxito locales: Perspectiva desde el Mercado Colombiano</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</guid>
-      <description>&lt;h2 id=&#34;basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona&#34;&gt;Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;
-&lt;h2 id=&#34;el-problema-real-en-colombia&#34;&gt;El Problema Real en Colombia&lt;/h2&gt;
-&lt;p&gt;Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Seguridad AWS para Fintech: Framework Probado por CTOs Colombianos</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-fintech-security/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-fintech-security/</guid>
-      <description>&lt;h2 id=&#34;trabajando-con-ctos-del-sector-fintech-identifiqué-5-vulnerabilidades-críticas-que-el-73-de-las-empresas-no-detectan&#34;&gt;Trabajando con CTOs del sector fintech, identifiqué 5 vulnerabilidades críticas que el 73% de las empresas no detectan&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 ctos en Colombia, incluyendo empresas como TechFin Colombia. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Startup Ahorra $8,400/año: Estrategias de Costos Cloud para Fundadores</title>
-      <link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-cost-optimization/</link>
-      <pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-cost-optimization/</guid>
-      <description>&lt;h2 id=&#34;analizando-startups-colombianas-encontré-que-el-68-paga-de-más-por-cloud-aquí-está-el-framework-que-usan-las-que-ahorran&#34;&gt;Analizando startups colombianas, encontré que el 68% paga de más por cloud. Aquí está el framework que usan las que ahorran&amp;hellip;&lt;/h2&gt;
-&lt;p&gt;Este artículo está basado en mi trabajo directo con 1 founders en Colombia, incluyendo empresas como Startup SaaS. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p&gt;
-&lt;p&gt;Want to see what you could save? Try my &lt;a href=&#34;https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog&#34;&gt;free Cloud Expert Bot assessment&lt;/a&gt; - it takes just 2 minutes.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Colombia-Tech on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/categories/colombia-tech/</link><description>Recent content in Colombia-Tech on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Mon, 06 Apr 2026 17:44:37 +0000</lastBuildDate><atom:link href="https://blog.itsdavidg.co/categories/colombia-tech/index.xml" rel="self" type="application/rss+xml"/><item><title>Automatización Kubernetes para equipos DevOps en Latam: Perspectiva desde el Mercado Colombiano</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-kubernetes-automation/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-kubernetes-automation/</guid><description>&lt;h2 id="basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona">Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p>
+&lt;h2 id="el-problema-real-en-colombia">El Problema Real en Colombia&lt;/h2>
+&lt;p>Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p></description></item><item><title>Cómo Reducir Costos AWS: Guía para CTOs de Empresas Colombianas</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-aws-cost-optimization/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-aws-cost-optimization/</guid><description>&lt;h2 id="después-de-analizar-empresas-como-techfin-colombia-descubrí-patrones-comunes-que-pueden-ahorrar-hasta-32-en-costos-cloud">Después de analizar empresas como TechFin Colombia, descubrí patrones comunes que pueden ahorrar hasta 32% en costos cloud&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 ctos en Colombia, incluyendo empresas como TechFin Colombia. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p></description></item><item><title>Estrategias de Escalado: Lo que Funciona para Startups en Colombia</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-scaling-strategies/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-scaling-strategies/</guid><description>&lt;h2 id="trabajando-con-fundadores-locales-identifiqué-4-estrategias-que-separan-las-startups-que-escalan-de-las-que-se-estancan">Trabajando con fundadores locales, identifiqué 4 estrategias que separan las startups que escalan de las que se estancan&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 founders en Colombia, incluyendo empresas como Startup SaaS. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p></description></item><item><title>Optimización de pipelines CI/CD: Casos de éxito locales: Perspectiva desde el Mercado Colombiano</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-devops-lead-ci-cd-optimization/</guid><description>&lt;h2 id="basándome-en-mi-experiencia-con-empresas-locales-aquí-está-lo-que-realmente-funciona">Basándome en mi experiencia con empresas locales, aquí está lo que realmente funciona&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 devops leads en Colombia, incluyendo empresas como E-commerce Solutions. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p>
+&lt;h2 id="el-problema-real-en-colombia">El Problema Real en Colombia&lt;/h2>
+&lt;p>Trabajando con devops leads en el mercado colombiano, he observado que:&lt;/p></description></item><item><title>Seguridad AWS para Fintech: Framework Probado por CTOs Colombianos</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-fintech-security/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-cto-fintech-security/</guid><description>&lt;h2 id="trabajando-con-ctos-del-sector-fintech-identifiqué-5-vulnerabilidades-críticas-que-el-73-de-las-empresas-no-detectan">Trabajando con CTOs del sector fintech, identifiqué 5 vulnerabilidades críticas que el 73% de las empresas no detectan&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 ctos en Colombia, incluyendo empresas como TechFin Colombia. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p></description></item><item><title>Startup Ahorra $8,400/año: Estrategias de Costos Cloud para Fundadores</title><link>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-cost-optimization/</link><pubDate>Mon, 06 Apr 2026 17:44:37 +0000</pubDate><guid>https://blog.itsdavidg.co/posts/bereach-driven/2026-04-06-founder-cost-optimization/</guid><description>&lt;h2 id="analizando-startups-colombianas-encontré-que-el-68-paga-de-más-por-cloud-aquí-está-el-framework-que-usan-las-que-ahorran">Analizando startups colombianas, encontré que el 68% paga de más por cloud. Aquí está el framework que usan las que ahorran&amp;hellip;&lt;/h2>
+&lt;p>Este artículo está basado en mi trabajo directo con 1 founders en Colombia, incluyendo empresas como Startup SaaS. Después de analizar sus desafíos y éxitos, identifiqué patrones que pueden ayudar a otros profesionales en situaciones similares.&lt;/p>
+&lt;p>Want to see what you could save? Try my &lt;a href="https://itsdavidg.co/cloudexpert?utm_source=blog&amp;amp;utm_medium=content&amp;amp;utm_campaign=inline_mention_20260406&amp;amp;utm_content=blog">free Cloud Expert Bot assessment&lt;/a> - it takes just 2 minutes.&lt;/p></description></item></channel></rss>

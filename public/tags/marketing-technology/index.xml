@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Marketing Technology on David Gomez - Technology &amp; Business Insights</title>
-    <link>https://blog.itsdavidg.co/tags/marketing-technology/</link>
-    <description>Recent content in Marketing Technology on David Gomez - Technology &amp; Business Insights</description>
-    <generator>Hugo -- 0.146.7</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 08:00:00 -0500</lastBuildDate>
-    <atom:link href="https://blog.itsdavidg.co/tags/marketing-technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Marketing Automation Excellence in 2026: Building Intelligent Customer Journeys</title>
-      <link>https://blog.itsdavidg.co/posts/marketing_automation/</link>
-      <pubDate>Thu, 12 Mar 2026 08:00:00 -0500</pubDate>
-      <guid>https://blog.itsdavidg.co/posts/marketing_automation/</guid>
-      <description>&lt;h2 id=&#34;introduction-the-automation-imperative&#34;&gt;Introduction: The Automation Imperative&lt;/h2&gt;
-&lt;p&gt;Marketing automation has evolved from a productivity tool to the central nervous system of modern marketing operations. According to Gartner&amp;rsquo;s 2025 Marketing Technology Survey, organizations using advanced marketing automation achieve 53% higher conversion rates and 47% lower customer acquisition costs compared to those with basic or no automation.&lt;/p&gt;
-&lt;p&gt;The landscape has transformed dramatically. What began as simple email scheduling has evolved into sophisticated AI-powered orchestration across dozens of touchpoints. HubSpot&amp;rsquo;s 2025 State of Marketing Report indicates that 76% of marketers now use automation tools, yet only 32% believe they&amp;rsquo;re using these tools to full potential—a significant capability gap representing competitive opportunity.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Marketing Technology on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/marketing-technology/</link><description>Recent content in Marketing Technology on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2026 08:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/marketing-technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Marketing Automation Excellence in 2026: Building Intelligent Customer Journeys</title><link>https://blog.itsdavidg.co/posts/marketing_automation/</link><pubDate>Thu, 12 Mar 2026 08:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/marketing_automation/</guid><description>&lt;h2 id="introduction-the-automation-imperative">Introduction: The Automation Imperative&lt;/h2>
+&lt;p>Marketing automation has evolved from a productivity tool to the central nervous system of modern marketing operations. According to Gartner&amp;rsquo;s 2025 Marketing Technology Survey, organizations using advanced marketing automation achieve 53% higher conversion rates and 47% lower customer acquisition costs compared to those with basic or no automation.&lt;/p>
+&lt;p>The landscape has transformed dramatically. What began as simple email scheduling has evolved into sophisticated AI-powered orchestration across dozens of touchpoints. HubSpot&amp;rsquo;s 2025 State of Marketing Report indicates that 76% of marketers now use automation tools, yet only 32% believe they&amp;rsquo;re using these tools to full potential—a significant capability gap representing competitive opportunity.&lt;/p></description></item></channel></rss>

@@ -1,6 +1,6 @@
 ---
 title: "Patch Tuesday, January 2026 Edition"
-date: 2026-04-08T12:00:01
+date: 2026-04-08T20:00:02
 draft: false
 tags: ["news", "krebs-on-security"]
 categories: ["industry-news"]
