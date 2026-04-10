@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloudexpert on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloudexpert/</link><description>Recent content in Cloudexpert on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloudexpert/index.xml" rel="self" type="application/rss+xml"/><item><title>Case Study: The $48K Question They Answered Themselves</title><link>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</link><pubDate>Thu, 09 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</guid><description>&lt;p>Real numbers from a real company that decided to stop waiting on senior engineers for infrastructure answers.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloudexpert on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloudexpert/</link><description>Recent content in Cloudexpert on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloudexpert/index.xml" rel="self" type="application/rss+xml"/><item><title>Stop Escalating vs Start Knowing: Which Approach Wins?</title><link>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</link><pubDate>Fri, 10 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</guid><description>&lt;p>There&amp;rsquo;s a difference between having an expert and being able to ask that expert anything, anytime.&lt;/p>
+&lt;h2 id="why-getting-aws-answers-feels-so-hard">Why Getting AWS Answers Feels So Hard&lt;/h2>
+&lt;p>You have a simple question about your infrastructure.&lt;/p>
+&lt;p>Should be easy, right?&lt;/p>
+&lt;p>But somehow it always turns into a multi-day process.&lt;/p>
+&lt;p>Let&amp;rsquo;s break down what actually happens when you need an AWS answer:&lt;/p>
+&lt;h3 id="the-traditional-way-escalation">The Traditional Way: Escalation&lt;/h3>
+&lt;p>&lt;strong>Your question&lt;/strong>: &amp;ldquo;Are we overpaying for EC2?&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>The process&lt;/strong>:&lt;/p>
+&lt;ol>
+&lt;li>Figure out who to ask (5 minutes of Slack searching)&lt;/li>
+&lt;li>Send message to #devops channel (immediate)&lt;/li>
+&lt;li>Wait for response (2-6 hours, or overnight)&lt;/li>
+&lt;li>Engineer sees message, is busy, promises to check later (tomorrow?)&lt;/li>
+&lt;li>Follow up the next day (15 minutes writing polite reminder)&lt;/li>
+&lt;li>Engineer finally has time, checks your account (30 minutes)&lt;/li>
+&lt;li>Gets interrupted mid-check, comes back to it later&lt;/li>
+&lt;li>Provides partial answer: &amp;ldquo;Yeah, looks like there might be some optimization opportunities&amp;rdquo;&lt;/li>
+&lt;li>You ask: &amp;ldquo;Like what specifically?&amp;rdquo;&lt;/li>
+&lt;li>[Back to step 5 - another follow-up cycle]&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Total time for answer&lt;/strong>: 2-5 days
+&lt;strong>Answer quality&lt;/strong>: Partial, requires follow-ups
+&lt;strong>Engineering time consumed&lt;/strong>: 45+ minutes
+&lt;strong>Your frustration level&lt;/strong>: High&lt;/p></description></item><item><title>Case Study: The $48K Question They Answered Themselves</title><link>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</link><pubDate>Thu, 09 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-09-case-study-the-48k-question-they-answered-themsel/</guid><description>&lt;p>Real numbers from a real company that decided to stop waiting on senior engineers for infrastructure answers.&lt;/p>
 &lt;h2 id="the-company-15-person-saas-startup">The Company: 15-Person SaaS Startup&lt;/h2>
 &lt;p>&lt;strong>Team Size&lt;/strong>: 15 people (3 engineers)&lt;br>
 &lt;strong>Monthly AWS Spend&lt;/strong>: $8,400&lt;br>
