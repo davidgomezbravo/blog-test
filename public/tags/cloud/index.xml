@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloud on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloud/</link><description>Recent content in Cloud on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Stop Escalating vs Start Knowing: Which Approach Wins?</title><link>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</link><pubDate>Fri, 10 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</guid><description>&lt;p>There&amp;rsquo;s a difference between having an expert and being able to ask that expert anything, anytime.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cloud on David Gomez - Technology &amp; Business Insights</title><link>https://blog.itsdavidg.co/tags/cloud/</link><description>Recent content in Cloud on David Gomez - Technology &amp; Business Insights</description><generator>Hugo -- 0.146.7</generator><language>en-us</language><lastBuildDate>Sat, 11 Apr 2026 09:00:00 -0500</lastBuildDate><atom:link href="https://blog.itsdavidg.co/tags/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Stop Waiting for Your DevOps Team to Audit Your AWS Bill</title><link>https://blog.itsdavidg.co/posts/2026-04-11-stop-waiting-for-your-devops-team-to-audit-your-aw/</link><pubDate>Sat, 11 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-11-stop-waiting-for-your-devops-team-to-audit-your-aw/</guid><description>&lt;p>The average company wastes 32% on AWS. But finding it shouldn&amp;rsquo;t require escalating to a senior engineer.&lt;/p>
+&lt;h2 id="stop-guessing-about-your-aws-bill">Stop Guessing About Your AWS Bill&lt;/h2>
+&lt;p>How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Last time it took 3 days to get an answer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>By then you&amp;rsquo;ve already paid for another month&lt;/p></description></item><item><title>Your AWS Bill is 40% Higher - Here's How to Find Out Yourself</title><link>https://blog.itsdavidg.co/posts/2026-04-11-your-aws-bill-is-40-higher---heres-how-to-find-o/</link><pubDate>Sat, 11 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-11-your-aws-bill-is-40-higher---heres-how-to-find-o/</guid><description>&lt;p>Stop waiting hours for a busy engineer to answer a simple AWS question. With the right tool, you can audit your own infrastructure and get accurate, documentation-backed answers instantly.&lt;/p>
+&lt;h2 id="stop-guessing-about-your-aws-bill">Stop Guessing About Your AWS Bill&lt;/h2>
+&lt;p>How many times have you looked at your AWS bill and wondered: &amp;lsquo;Are we overpaying?&amp;rsquo; But then you don&amp;rsquo;t ask because:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Engineering is busy with &amp;lsquo;real&amp;rsquo; work&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>You&amp;rsquo;re not sure if it&amp;rsquo;s a dumb question&lt;/p></description></item><item><title>Stop Escalating vs Start Knowing: Which Approach Wins?</title><link>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</link><pubDate>Fri, 10 Apr 2026 09:00:00 -0500</pubDate><guid>https://blog.itsdavidg.co/posts/2026-04-10-stop-escalating-vs-start-knowing-which-approach-wi/</guid><description>&lt;p>There&amp;rsquo;s a difference between having an expert and being able to ask that expert anything, anytime.&lt;/p>
 &lt;h2 id="why-getting-aws-answers-feels-so-hard">Why Getting AWS Answers Feels So Hard&lt;/h2>
 &lt;p>You have a simple question about your infrastructure.&lt;/p>
 &lt;p>Should be easy, right?&lt;/p>
